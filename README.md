@@ -1,6 +1,14 @@
 # Gre Prep
 When I was mugging up words for preperation of GRE, I clustered words with similar meanings and It really helped. Here, are the clusters I made: 
 
+### To make angry:
+| Word          | Meaning       |
+| ------------- |:------------- |
+| Rankle(v)| gnaw into, make angry|
+| Peevish(adj)| Easily irritated or annoyed|
+| Exasperate(v) | To irritate intensely|
+| Irk(v)| irritate or vex|
+
 ### To make someone less angry:
 | Word          | Meaning       |
 | ------------- |:------------- |
@@ -28,30 +36,29 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Contempty, disdain, scorn(n) | Feeling that person or thing is worthless|
 | Disparage(v)| Regard as being or little worth|
 | Sneer(v)| A contemptuous or mocking smile|
+| Connive(v)| Taking part in immoral plots|
+| Tarnish(v)| Make dirty or spotty|
 
 ### Worsen
-| Word          | Meaning       |
-| ------------- |:------------- |
-| Exacerbate	|				|
-| Detrimental(adj)	| Causing harm |
-| Menace(n) | Person/Thing that is likely to cause harm|
+| Word          | Meaning       | Comments|
+| ------------- |:------------- | :----------|
+| Exacerbate	|				||
+| Detrimental(adj)	| Causing harm ||
+| Menace(n) | Person/Thing that is likely to cause harm||
+| Impend(v)| To hover threatingly| in+pendere(to hang) - pendant, pending, dependent|
+| Devolve(v)| Pass on (your work) to others, grow worse||
 
-### To make better
-| Word          | Meaning       |
-| ------------- |:------------- |
-| Ameliroate, Meliorate | |
-| Mitigate| To make less severe |
-| Extenuating (adj) | Making less guilty |
 
 ### Stubborn
-| Word          | Meaning       |
-| ------------- |:------------- |
-| Adamant(adj)	|				|
-| Obstinate| |
-| Intransigent| |
-| Incorrigible | |
-| {Dogged(adj)} | Determined, showing grim persistence|
-| Obdurate(adj) | Unable to be persuaded |
+| Word          | Meaning       | Comments|
+| ------------- |:------------- ||
+| Adamant(adj)	|				||
+| Obstinate| Resistant to guidance, Stubbornly persistent ||
+| Intransigent| ||
+| Incorrigible | ||
+| {Dogged(adj)} | Determined, showing grim persistence||
+| Obdurate(adj) | Unable to be persuaded ||
+| Steadfast| Marked by firm determination| Steadly + Fasten(firmed, tight)|
 
 ### Scolding
 | Word          | Meaning       |
@@ -98,6 +105,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Impudent | Failing to show respect |
 | Cocky ||
 | Candid | Straightforward and Honest |
+| Brusquely(adverb) | In a blunt, direct manner|
 
 ### Repeated too often, boring:
 | Word          | Meaning       |
@@ -114,13 +122,16 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Conspicuous||
 
 ### Explain in detail:
-| Word          | Meaning       |
-| ------------- |:------------- |
-| Delineate (v)| To clearly describe|
-| Expound(v)| To give details|
-| Cogent(adj)| Clear and persuasive|
-| Lucid(adj)| Expressed clearly, transparently|
-| Pithy(adj)| Concise and full of meaning|
+| Word          | Meaning       | Comments|
+| ------------- |:------------- | :----------|
+| Delineate (v)| To clearly describe||
+| Expound(v)| To give details||
+| Cogent(adj)| Clear and persuasive||
+| Lucid(adj)| Expressed clearly, transparently||
+| Pithy(adj)| Concise and full of meaning||
+| Quip(n)| A witty saying or remark||
+| Maxim(n)| A short saying expressing a general truth||
+| Savvy(n, v, adj)| A perceptive understanding, get the meaning of something||
 
 ### Sycophants, flatter:
 | Word          | Meaning       |
@@ -139,16 +150,19 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Genial(adj)| Agreeable, friendly|
 
 ### Uncommunicative:
-| Word          | Meaning       |
-| ------------- |:------------- |
-| Taciturn(adj)| Reserved nature|
-| Laconic(adj)| Expressed in few words|
-| Callous(adj)| Insensitive/emotionally hardened|
-| Sullen(adj)| Ill tempered|
-| Surly(adj)| Ill tempered, menace|
-| Morose(adj) | Ill tempered, not inclined to talk|
-| Stolid(adj)| Having or revealing little emotions, not easily aroused|
-| Tawdry(adj)| tasteless showy, cheap, showdy|
+| Word          | Meaning       | Comments|
+| ------------- |:------------- | :---------|
+| Taciturn(adj)| Reserved nature||
+| Laconic(adj)| Expressed in few words||
+| Callous(adj)| Insensitive/emotionally hardened||
+| Sullen(adj)| Ill tempered||
+| Surly(adj)| Ill tempered, menace||
+| Morose(adj) | Ill tempered, not inclined to talk||
+| Stolid(adj)| Having or revealing little emotions, not easily aroused||
+| Tawdry(adj)| tasteless showy, cheap, showdy||
+| Foible(n)| A minor fault in someone's character or behaviour| from feeble||
+| Aphoristic(adj)| A short phrase that expresses true or wise idea| Aphorism|
+| Maxim(n)| A well known phrase that expresses general truth about life or behaviour||
 
 ### Amateur:
 | Word          | Meaning       |
@@ -158,14 +172,18 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Fledgling(adj)| Young, amateur|
 | Slapdash(adj)| Done in hurry and carelessly|
 
-### Grow or flourish:
-| Word          | Meaning       |
-| ------------- |:------------- |
-| Burgeon(v) | |
-| Surge(v)| Move very quickly, sudden increase to high level|
-| Resurge(v)| Rise again|
-| Wax(v)| To gradually increase in size|
-| Augment(v)| improve|
+### To make better
+| Word          | Meaning       | Comments|
+| ------------- |:------------- ||
+| Ameliroate, Meliorate | ||
+| Mitigate| To make less severe ||
+| Extenuating (adj) | Making less guilty ||
+| Augment(v)| improve||
+| Burgeon(v) | ||
+| Surge(v)| Move very quickly, sudden increase to high level||
+| Resurge(v)| Rise again||
+| Wax(v)| To gradually increase in size||
+| {Complacent(adj)}| self satisfaction| Com + placere(to please)|
 
 
 ### Opposition:
@@ -182,6 +200,19 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Assail(v)| Attack in speech or writing|
 
 
+### Hard to understand:
+| Word          | Meaning       | Comments |
+| ------------- |:------------- | :-----------|
+| Obstruse| ||
+| Recondite|||
+| Arcane | Require secret knowledge ||
+| Insrutable | ||
+| Opaque | ||
+| Esoteric| Only taught to/ understood by small group||
+| Elusive(adj)| Difficult to capture/ remember||
+| Convoluted(adj) | Highly complex or intricate| Based on Convolve: To rotate|
+| Elude(v)| Escape understanding||
+
 ### Large Amount 
 | Word          | Meaning       |
 | ------------- |:------------- |
@@ -197,6 +228,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Incessant(adj)| Uninterrupted in time (something unpleasant)|
 | Perennial(adj)| Eternal|
 | Cornucopia(n)| An abundant supply of something good|
+| Squander(v)| Spend thoughtlessly, waste time, money or opportunity|
 
 ### Careful or Limited Amount:  
 | Word          | Meaning       |
@@ -211,6 +243,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Dearth(n)| Scarcity |
 | Transitory(adj)| Lasting for short time|
 | Smattering(n)| Slight(Little) understanding of a subject|
+| Destitute(n, adj)| Poor enough to need help, completely wanting |
 
 ### Generous, polite:
 | Word          | Meaning       |
@@ -219,16 +252,20 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Benign(adj) | Gentle and kind, not harmful |
 | Genteel(adj)| Marked by refinement in taste and manners |
 | Decorous(adj) | Polite and restrained|
+| Placid(adj)| Not easily irritated|
 
 ### Trick, Betrayal:
-| Word          | Meaning       |
-| ------------- |:------------- |
-| Dupe(v)| |
-| Gullible(adj)| Easily tricked or convinced|
-| Fleece(v)| To decieve|
-| Renege(v)| Fail to fulfil a promise |
-| Entice(v)| Attract or tempt by offering pleasure or advantage|
-| Illicit(adj)| Contrary to law|
+| Word          | Meaning       | Comments|
+| ------------- |:------------- | :---------|
+| Dupe(v)| ||
+| Gullible(adj)| Easily tricked or convinced||
+| Fleece(v)| To decieve||
+| Renege(v)| Fail to fulfil a promise ||
+| Entice(v)| Attract or tempt by offering pleasure or advantage||
+| Illicit(adj)| Contrary to law||
+| Credulity(adj)| Tendency to believe readily| Credit, Credulance, Credeblity, Credential: All are related to belief|
+| Deceit(n)| Dishonest behaviour||
+| Discord(n)| Lack of agreement or harmony| based on cord (heart), accord: agreement|
  
 
 ### Sad:
@@ -269,12 +306,14 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Thwart(v)| Hinder|
 | Buck(v)| Resist|
 | Deter(v)| Discourage (someone) from doing something by instilling doubt or fear of the consequences. | 
+| Perturb(v)| Disturb in mind or cause to be worried or alarmed|
 
 ### To support:
 | Word          | Meaning       |
 | ------------- |:------------- |
 | Corroborate(v)| Lend support to (fact)|
 | Propound(v) | Propose or put forward for other's consideration |
+| Tout(v)| Advertize in strongly positive terms|
 
 ### Nation, Patriotism, Politics:
 | Word          | Meaning       |
@@ -282,6 +321,8 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Bellicose(adj)| Demostrating aggression to fight|
 | Jingoism(n)| Extreme patriotism|
 | Junta(n)| A military or political group that rules a country after taking power by force |
+| Bucolic(adj)| Relating to country or countryside|
+| Pastoral(adj)| Bucolic|
 
 
 ### Fight, Anger:
@@ -299,17 +340,21 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Exhort(v) | To strongly urge|
 | Badger(v) | Repeatedly and annoyingly ask something|
 | Pester(v) | Badger |
+| Goad(v)| Urge on with unpleasant comments|
 
-### To make angry:
-| Word          | Meaning       |
-| ------------- |:------------- |
-| Rankle(v)| gnaw into, make angry|
 
 ### Funny:
 | Word          | Meaning       |
 | ------------- |:------------- |
 | Facetious(adj) | Cleverly amusing in tone|
 
+
+### Hard working, Persistent:
+| Word          | Meaning       | Comment |
+| ------------- |:------------- |:-----------|
+| Meticulous(adj)| Very careful about doing something in an extremely careful and exact way||
+| Diligent(adj) | Characterized by care and perseverance in doing task||
+|||
 
 ## Acknowledgement:
 Most of the words here are taken from Maghoosh Flash Cards android application and from book "Word power made easy" by Norman Lewis. 
