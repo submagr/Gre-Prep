@@ -174,7 +174,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 
 ### To make better
 | Word          | Meaning       | Comments|
-| ------------- |:------------- ||
+| ------------- |:------------- | :---------- |
 | Ameliroate, Meliorate | ||
 | Mitigate| To make less severe ||
 | Extenuating (adj) | Making less guilty ||
@@ -355,6 +355,25 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Meticulous(adj)| Very careful about doing something in an extremely careful and exact way||
 | Diligent(adj) | Characterized by care and perseverance in doing task||
 |||
+
+
+## Some Common suffixes, prefixes and roots with examples:
+| Element         | Meaning       | Examples |
+| ------------- |:------------- |:-----------|
+| -mancy | Prediction or foretelling | Chiromancy( cheir- (hand) + mancy) |
+| podos, pous | Foot | Chiropodist, Podium, Octopous|
+| cheir, chir- | Hand | Chiropractor|
+| -ium | Place where | Stadium, Gymnasium|
+| -ic | (Adjective suffix) | Orthodontic, Optimistic|
+| osteon- | Bone | Osteopath (Bone suffering)|
+| Pathos| suffering, disease, feeling | Pyschopath, Antipathy, Neuropathy|
+| -iateria | Medical Healing| Paediatrician (Child Doctor), Psychiatry |
+| Malus | Bad | Malign, Malevolent, Malediction |
+| Bonus(bene)| Good | Benign, Benevolent|
+| Facio | to do or make | Benefactor, Beneficiary|
+| Fides | faith or trust | Bona-fide, fidelity, infidel|
+| ad- | to, towards ||
+
 
 ## Acknowledgement:
 Most of the words here are taken from Maghoosh Flash Cards android application and from book "Word power made easy" by Norman Lewis. 
