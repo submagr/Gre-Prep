@@ -18,6 +18,21 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Placate		| 
 | [Provocate(v)]	| Make angry or stir up sexual desires
 
+
+### To make better
+| Word          | Meaning       | Comments|
+| ------------- |:------------- | :---------- |
+| Ameliroate, Meliorate | ||
+| Mitigate| To make less severe ||
+| Extenuating (adj) | Making less guilty ||
+| Augment(v)| improve||
+| Burgeon(v) | ||
+| Surge(v)| Move very quickly, sudden increase to high level||
+| Resurge(v)| Rise again||
+| Wax(v)| To gradually increase in size||
+| {Complacent(adj)}| self satisfaction| Com + placere(to please)|
+| Relent(v) | Become less severe or harsh/ abandon or mitigate a severe or harsh attitude, especially by finally yielding to a request ||
+
 ### To degrade someone's reputation, To play down
 | Word          | Meaning       |
 | ------------- |:------------- |
@@ -51,7 +66,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 
 ### Stubborn
 | Word          | Meaning       | Comments|
-| ------------- |:------------- ||
+| ------------- |:------------- | :--------- |
 | Adamant(adj)	|				||
 | Obstinate| Resistant to guidance, Stubbornly persistent ||
 | Intransigent| ||
@@ -59,6 +74,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | {Dogged(adj)} | Determined, showing grim persistence||
 | Obdurate(adj) | Unable to be persuaded ||
 | Steadfast| Marked by firm determination| Steadly + Fasten(firmed, tight)|
+| Implacable | Unyielding to request, relentless||
 
 ### Scolding
 | Word          | Meaning       |
@@ -107,14 +123,6 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Candid | Straightforward and Honest |
 | Brusquely(adverb) | In a blunt, direct manner|
 
-### Repeated too often, boring:
-| Word          | Meaning       |
-| ------------- |:------------- |
-| Hackneyed(adj)| Repeated too often to become dull|
-| Banal(adj)| Boring or ordinary|
-| Cliche(n)||
-| Trite(adj)| (of a remark or idea) lacking originality and freshness|
-| Mundane(adj)| lacking interest or excitement|
 
 ### Completely obvious:
 | Word          | Meaning       |
@@ -172,18 +180,6 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Fledgling(adj)| Young, amateur|
 | Slapdash(adj)| Done in hurry and carelessly|
 
-### To make better
-| Word          | Meaning       | Comments|
-| ------------- |:------------- | :---------- |
-| Ameliroate, Meliorate | ||
-| Mitigate| To make less severe ||
-| Extenuating (adj) | Making less guilty ||
-| Augment(v)| improve||
-| Burgeon(v) | ||
-| Surge(v)| Move very quickly, sudden increase to high level||
-| Resurge(v)| Rise again||
-| Wax(v)| To gradually increase in size||
-| {Complacent(adj)}| self satisfaction| Com + placere(to please)|
 
 
 ### Opposition:
@@ -213,6 +209,15 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Convoluted(adj) | Highly complex or intricate| Based on Convolve: To rotate|
 | Elude(v)| Escape understanding||
 
+### Repeated too often, boring:
+| Word          | Meaning       |
+| ------------- |:------------- |
+| Hackneyed(adj)| Repeated too often to become dull|
+| Banal(adj)| Boring or ordinary|
+| Cliche(n)||
+| Trite(adj)| (of a remark or idea) lacking originality and freshness|
+| Mundane(adj)| lacking interest or excitement|
+
 ### Large Amount 
 | Word          | Meaning       |
 | ------------- |:------------- |
@@ -229,6 +234,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Perennial(adj)| Eternal|
 | Cornucopia(n)| An abundant supply of something good|
 | Squander(v)| Spend thoughtlessly, waste time, money or opportunity|
+| Relentless(adj)| Unceasingly intense, harsh or inflexible|
 
 ### Careful or Limited Amount:  
 | Word          | Meaning       |
@@ -286,16 +292,18 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Whimsical(adj)| Determined by impulse or whim|
 
 ### Happy:
-| Word          | Meaning       |
-| ------------- |:------------- |
-| Beatific(adj)| Blissfully happy|
-| Sanguine(ad)| Cheerful, Optimistic|
-| Winsome(adj)| Attractive in a fresh, innocent, child-like way |
-| Glee(n)| Great delight, especially from one's own good fortune or another's misfortune|
-| Scintillating(adj) | Brilliant and lively|
-| Jocular(adj)| Characterized by jokes|
-| Guffaw(v)| Laugh roughly and noisily|
-| Euphoria(n)| Feeling of great elation|
+| Word          | Meaning       | Comments|
+| ------------- |:------------- | :---------|
+| Beatific(adj)| Blissfully happy||
+| Sanguine(ad)| Cheerful, Optimistic||
+| Winsome(adj)| Attractive in a fresh, innocent, child-like way ||
+| Glee(n)| Great delight, especially from one's own good fortune or another's misfortune||
+| Scintillating(adj) | Brilliant and lively||
+| Jocular(adj)| Characterized by jokes||
+| Guffaw(v)| Laugh roughly and noisily||
+| Euphoria(n)| Feeling of great elation||
+| Placid(adj)| Calm and peaceful| from plac- you'r pleased with the things as they are|
+| Content(adj, verb, noun)| in a state of peaceful happiness, satisfy someone||
 
 ### To hold back:
 | Word          | Meaning       |
@@ -314,6 +322,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Corroborate(v)| Lend support to (fact)|
 | Propound(v) | Propose or put forward for other's consideration |
 | Tout(v)| Advertize in strongly positive terms|
+| Condone(v)| To forgive, overlook of (illegal offence)|
 
 ### Nation, Patriotism, Politics:
 | Word          | Meaning       |
@@ -354,7 +363,13 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | ------------- |:------------- |:-----------|
 | Meticulous(adj)| Very careful about doing something in an extremely careful and exact way||
 | Diligent(adj) | Characterized by care and perseverance in doing task||
-|||
+
+### Self Satisfied, Proudy:
+| Word          | Meaning       | Comment |
+| ------------- |:------------- |:-----------|
+| Complacent | Uncritical satisfaction with oneself| com- + -plac : you are pleased with yourself|
+| Smug | Having or showing excessive pride in oneself||
+| Sanctimonious |making a show of being morally superior to other people||
 
 
 ## Some Common suffixes, prefixes and roots with examples:
@@ -370,9 +385,16 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | -iateria | Medical Healing| Paediatrician (Child Doctor), Psychiatry |
 | Malus | Bad | Malign, Malevolent, Malediction |
 | Bonus(bene)| Good | Benign, Benevolent|
-| Facio | to do or make | Benefactor, Beneficiary|
+| Facio, Factus, fec-, fic-, -fy(as a verb) | to do or make | Benefactor, Beneficiary|
 | Fides | faith or trust | Bona-fide, fidelity, infidel|
-| ad- | to, towards ||
+| Dico, Dictus| To say, tell | Dictate, Malediction(curse)|
+| ad- | to, towards | addiction|
+| manus | hand| manual|
+| script | to write | Manuscript|
+| volo | to wish | malevolent, voluntary|
+| plac- | to please, appease| placate, implacable |
+| dono | to give | donor, condone|
+| Par | equal| as par, parity, disparity, comparision, disparage|
 
 
 ## Acknowledgement:
