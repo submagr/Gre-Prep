@@ -8,6 +8,8 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Peevish(adj)| Easily irritated or annoyed|
 | Exasperate(v) | To irritate intensely|
 | Irk(v)| irritate or vex|
+| Incense(v) | Make furious|
+| Rile(v) | Cause annoyance in; disturb, especially by minor irritations|
 
 ### To make someone less angry:
 | Word          | Meaning       |
@@ -32,27 +34,32 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Wax(v)| To gradually increase in size||
 | {Complacent(adj)}| self satisfaction| Com + placere(to please)|
 | Relent(v) | Become less severe or harsh/ abandon or mitigate a severe or harsh attitude, especially by finally yielding to a request ||
+| Coalesce(v) | To come together to form one group or mass||
+| Redress(n)| An act of making something right||
 
 ### To degrade someone's reputation, To play down
-| Word          | Meaning       |
-| ------------- |:------------- |
-| Calumny | Untrue statement to damage someone's reputation |
-| Denigrate | Charge falsely, attack the good name of|
-| Villify	| To say very harsh things about someone|
-| Malign	| Intend to cause harm |
-| Slander(n)	| The action or crime of making a false spoken statement damaging to a person's reputation |
-| Calumniate	| To utter false statements about | 
-| {Sinster}		| Harmful |
-| {Indict}		| Formally charge or accuse |
-| {Vindicate} | Clear someone of blame or accusition |
-| Spurn(v) | Reject with contempt|
-| Derisive(adj) | Abusing vocaly, expressing contempt or redicule|
-| Snide(adj)| Mocking, Derogatory in an indirect way|
-| Contempty, disdain, scorn(n) | Feeling that person or thing is worthless|
-| Disparage(v)| Regard as being or little worth|
-| Sneer(v)| A contemptuous or mocking smile|
-| Connive(v)| Taking part in immoral plots|
-| Tarnish(v)| Make dirty or spotty|
+| Word          | Meaning       | Comments|
+| ------------- |:------------- |:------|
+| Calumny | Untrue statement to damage someone's reputation ||
+| Denigrate | Charge falsely, attack the good name of||
+| Villify	| To say very harsh things about someone||
+| Malign	| Intend to cause harm ||
+| Slander(n)	| The action or crime of making a false spoken statement damaging to a person's reputation ||
+| Calumniate	| To utter false statements about | |
+| {Sinster}		| Harmful ||
+| {Indict}		| Formally charge or accuse ||
+| {Vindicate} | Clear someone of blame or accusition ||
+| Spurn(v) | Reject with contempt||
+| Derisive(adj) | Abusing vocaly, expressing contempt or redicule||
+| Snide(adj)| Mocking, Derogatory in an indirect way||
+| Contempty, disdain, scorn(n) | Feeling that person or thing is worthless||
+| Disparage(v)| Regard as being or little worth||
+| Sneer(v)| A contemptuous or mocking smile||
+| Connive(v)| Taking part in immoral plots||
+| Tarnish(v)| Make dirty or spotty||
+| Belittle(v)| To degrade reputation of someone||
+| Besmirch(v) |damage( someone's reputation )| be + smirch (to stain)||
+| Deride(v)| Treat with or speak of with contempt||
 
 ### Worsen
 | Word          | Meaning       | Comments|
@@ -75,6 +82,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Obdurate(adj) | Unable to be persuaded ||
 | Steadfast| Marked by firm determination| Steadly + Fasten(firmed, tight)|
 | Implacable | Unyielding to request, relentless||
+| Docile(adj)| Easily handled or managed||
 
 ### Scolding
 | Word          | Meaning       |
@@ -109,6 +117,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Obscure ||
 | Hotch Potch/ Hodgepodge| Confused Mixture|
 | Moot(adj)| Open to argument, debatable, undecidable|
+| Intermittent(adj)| Stopping and starting at irregular interval||
 
 ### Forward or bold or rude
 | Word          | Meaning       |
@@ -148,6 +157,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Ingratiate (v) | Bring oneself into favour by flattering|
 | Servile (adj)| Excessive willingness to serve or please|
 | Fulsome (adj)| Excessive praise or ingratiating flattery|
+| Fawn(v)| Try to gain favor by extreme flattery|
 
 ### Talkative:
 | Word          | Meaning       |
@@ -208,6 +218,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Elusive(adj)| Difficult to capture/ remember||
 | Convoluted(adj) | Highly complex or intricate| Based on Convolve: To rotate|
 | Elude(v)| Escape understanding||
+| Conundrum(n)| A difficult problem||
 
 ### Repeated too often, boring:
 | Word          | Meaning       |
@@ -217,6 +228,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Cliche(n)||
 | Trite(adj)| (of a remark or idea) lacking originality and freshness|
 | Mundane(adj)| lacking interest or excitement|
+| Humdrum(adj)| Dull and lacking excitement|
 
 ### Large Amount 
 | Word          | Meaning       |
@@ -235,6 +247,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Cornucopia(n)| An abundant supply of something good|
 | Squander(v)| Spend thoughtlessly, waste time, money or opportunity|
 | Relentless(adj)| Unceasingly intense, harsh or inflexible|
+| Profusion(n) | Large amount of something|
 
 ### Careful or Limited Amount:  
 | Word          | Meaning       |
@@ -269,9 +282,10 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Renege(v)| Fail to fulfil a promise ||
 | Entice(v)| Attract or tempt by offering pleasure or advantage||
 | Illicit(adj)| Contrary to law||
-| Credulity(adj)| Tendency to believe readily| Credit, Credulance, Credeblity, Credential: All are related to belief|
+| {Credulity(adj)}| Tendency to believe readily| Credit, Credulance, Credeblity, Credential: All are related to belief|
 | Deceit(n)| Dishonest behaviour||
 | Discord(n)| Lack of agreement or harmony| based on cord (heart), accord: agreement|
+| Veneer(n)| Covering consisting of a thin superficial layer that hides the underlying substance ||
  
 
 ### Sad:
@@ -279,6 +293,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | ------------- |:------------- |
 | Bleak(adj)| Not warm/helpful, gloomy|
 | Cadaverous(adj)| Very pale, thin or bony because of suffering|
+| Malencholy(n)| A deep, long-lasting sadness|
 
 
 ### Unplanned:
@@ -290,6 +305,8 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Fortuitous(adj)| Happening by a lucky chance|
 | Inadvertent(adj)| Happening by chance|
 | Whimsical(adj)| Determined by impulse or whim|
+| Precarious(adj)| Fraught with danger, uncertain|
+
 
 ### Happy:
 | Word          | Meaning       | Comments|
@@ -363,6 +380,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | ------------- |:------------- |:-----------|
 | Meticulous(adj)| Very careful about doing something in an extremely careful and exact way||
 | Diligent(adj) | Characterized by care and perseverance in doing task||
+| Industrious(adj)| Characterized by hard work and persistence||
 
 ### Self Satisfied, Proudy:
 | Word          | Meaning       | Comment |
@@ -371,6 +389,23 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Smug | Having or showing excessive pride in oneself||
 | Sanctimonious |making a show of being morally superior to other people||
 
+
+### Duty :
+| Word          | Meaning       | Comment |
+| ------------- |:------------- |:-----------|
+| Incumbent(adj, n)| Necessary as a duty or responsiblity, a person who holds a particular office or position||
+
+### Wise :
+| Word          | Meaning       | Comment |
+| ------------- |:------------- |:-----------|
+| Cerebral | | Cerebrum (brain)|
+
+### Negligent:
+| Word          | Meaning       | Comment |
+| ------------- |:------------- |:-----------|
+| Foolhardy(adj)| Marked by defiant disregard for danger or consequences||
+| Cavalier(adj)| Showing a lack of proper concern||
+||||
 
 ## Some Common suffixes, prefixes and roots with examples:
 | Element         | Meaning       | Examples |
