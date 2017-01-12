@@ -8,8 +8,9 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Peevish(adj)| Easily irritated or annoyed|
 | Exasperate(v) | To irritate intensely|
 | Irk(v)| irritate or vex|
-| Incense(v) | Make furious|
+| Incense(v) | Make firious|
 | Rile(v) | Cause annoyance in; disturb, especially by minor irritations|
+| Irascible(adj)| Quickly aroused to anger|
 
 ### To make someone less angry:
 | Word          | Meaning       |
@@ -36,6 +37,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Relent(v) | Become less severe or harsh/ abandon or mitigate a severe or harsh attitude, especially by finally yielding to a request ||
 | Coalesce(v) | To come together to form one group or mass||
 | Redress(n)| An act of making something right||
+| Buttress(v)| To make stronger or defensible||
 
 ### To degrade someone's reputation, To play down
 | Word          | Meaning       | Comments|
@@ -60,6 +62,8 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Belittle(v)| To degrade reputation of someone||
 | Besmirch(v) |damage( someone's reputation )| be + smirch (to stain)||
 | Deride(v)| Treat with or speak of with contempt||
+| Relegate(v)| Assign an inferior rank or position to||
+| Sordid(adj)| Involving ignoble actions and motives|
 
 ### Worsen
 | Word          | Meaning       | Comments|
@@ -131,6 +135,8 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Cocky ||
 | Candid | Straightforward and Honest |
 | Brusquely(adverb) | In a blunt, direct manner|
+| Forthright(adj)| Characterized by directness in manner or speech|
+| Snub(v)| Refuse to acknowledge; reject bluntly|
 
 
 ### Completely obvious:
@@ -204,6 +210,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Maveric(n) | An unorthodox or independent minded person |
 | Polemic(n)| A strong verbal or written attack on someone or something|
 | Assail(v)| Attack in speech or writing|
+| Resignation(n)| The acceptence of something unpleasant that can't be avoided|
 
 
 ### Hard to understand:
@@ -229,6 +236,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Trite(adj)| (of a remark or idea) lacking originality and freshness|
 | Mundane(adj)| lacking interest or excitement|
 | Humdrum(adj)| Dull and lacking excitement|
+| Insipid(adj)| Dull and uninteresting|
 
 ### Large Amount 
 | Word          | Meaning       |
@@ -248,21 +256,24 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Squander(v)| Spend thoughtlessly, waste time, money or opportunity|
 | Relentless(adj)| Unceasingly intense, harsh or inflexible|
 | Profusion(n) | Large amount of something|
+| Colossal(adj)| So great in size as to elicit awe|
 
 ### Careful or Limited Amount:  
-| Word          | Meaning       |
-| ------------- |:------------- |
-| Frugal(adj)| Simple and plain and costing little, economical|
-| Provident(adj)| Making or indicative or timely preperation for the future|
-| Miser(n)| A person who spend as little money as possible|
-| Insolvent(adj)| Bankrupt|
-| Thrifty(adj)| Spending wisely|
-| Pittance(n)| A very small amount of money|
-| Paucity(n)| Presence of something in small amount|
-| Dearth(n)| Scarcity |
-| Transitory(adj)| Lasting for short time|
-| Smattering(n)| Slight(Little) understanding of a subject|
-| Destitute(n, adj)| Poor enough to need help, completely wanting |
+| Word          | Meaning       | Comments|
+| ------------- |:------------- | :------------|
+| Frugal(adj)| Simple and plain and costing little, economical||
+| Provident(adj)| Making or indicative or timely preperation for the future||
+| Miser(n)| A person who spend as little money as possible||
+| Insolvent(adj)| Bankrupt||
+| Thrifty(adj)| Spending wisely||
+| Pittance(n)| A very small amount of money||
+| Paucity(n)| Presence of something in small amount||
+| Dearth(n)| Scarcity ||
+| Transitory(adj)| Lasting for short time||
+| Smattering(n)| Slight(Little) understanding of a subject||
+| Destitute(n, adj)| Poor enough to need help, completely wanting ||
+| Dispatch(n,v)| The property of being prompt and efficient, dispose of rapidly and withoud delay and efficiently||
+| Decimation(n)| The killing or destruction of a large part of group| Divide by 10|
 
 ### Generous, polite:
 | Word          | Meaning       |
@@ -272,6 +283,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Genteel(adj)| Marked by refinement in taste and manners |
 | Decorous(adj) | Polite and restrained|
 | Placid(adj)| Not easily irritated|
+| Chivalry(n)| Being attentive to woman like an ideal knight|
 
 ### Trick, Betrayal:
 | Word          | Meaning       | Comments|
@@ -286,6 +298,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Deceit(n)| Dishonest behaviour||
 | Discord(n)| Lack of agreement or harmony| based on cord (heart), accord: agreement|
 | Veneer(n)| Covering consisting of a thin superficial layer that hides the underlying substance ||
+| Finagle(v)| Achieve something by means of trickery||
  
 
 ### Sad:
@@ -306,6 +319,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Inadvertent(adj)| Happening by chance|
 | Whimsical(adj)| Determined by impulse or whim|
 | Precarious(adj)| Fraught with danger, uncertain|
+| Foolhardy(adj)| Marked by defiant disregard for danger or consequences||
 
 
 ### Happy:
@@ -332,6 +346,8 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Buck(v)| Resist|
 | Deter(v)| Discourage (someone) from doing something by instilling doubt or fear of the consequences. | 
 | Perturb(v)| Disturb in mind or cause to be worried or alarmed|
+| Hamper(v)| Prevent the progress or free movement of|
+| Stymie(v)| Hinder or prevent the progress or accomplishment of|
 
 ### To support:
 | Word          | Meaning       |
@@ -367,6 +383,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Badger(v) | Repeatedly and annoyingly ask something|
 | Pester(v) | Badger |
 | Goad(v)| Urge on with unpleasant comments|
+| Carp(v)| Complain or find fault continually about trivial matters|
 
 
 ### Funny:
@@ -381,6 +398,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Meticulous(adj)| Very careful about doing something in an extremely careful and exact way||
 | Diligent(adj) | Characterized by care and perseverance in doing task||
 | Industrious(adj)| Characterized by hard work and persistence||
+| Discreet(adj)| Careful to protect one's action in order to avoid offence||
 
 ### Self Satisfied, Proudy:
 | Word          | Meaning       | Comment |
@@ -394,6 +412,12 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Word          | Meaning       | Comment |
 | ------------- |:------------- |:-----------|
 | Incumbent(adj, n)| Necessary as a duty or responsiblity, a person who holds a particular office or position||
+| Behoove(v)| To be one's duty or obligation||
+
+### Envy:
+| Word          | Meaning       | Comment |
+| ------------- |:------------- |:-----------|
+| Begrudge(v)| To envy someone for possessing/enjoying somenthing||
 
 ### Wise :
 | Word          | Meaning       | Comment |
@@ -405,7 +429,6 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | ------------- |:------------- |:-----------|
 | Foolhardy(adj)| Marked by defiant disregard for danger or consequences||
 | Cavalier(adj)| Showing a lack of proper concern||
-||||
 
 ## Some Common suffixes, prefixes and roots with examples:
 | Element         | Meaning       | Examples |
