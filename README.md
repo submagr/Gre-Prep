@@ -11,6 +11,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Incense(v) | Make firious|
 | Rile(v) | Cause annoyance in; disturb, especially by minor irritations|
 | Irascible(adj)| Quickly aroused to anger|
+| Fractious(adj)| Irritable and is likely to cause disruption |
 
 ### To make someone less angry:
 | Word          | Meaning       |
@@ -20,6 +21,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Appease(v)			| To make someone pleased by speaking desired things
 | Placate		| 
 | [Provocate(v)]	| Make angry or stir up sexual desires
+| Conciliate(v)| To make peace with|
 
 
 ### To make better
@@ -64,6 +66,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Deride(v)| Treat with or speak of with contempt||
 | Relegate(v)| Assign an inferior rank or position to||
 | Sordid(adj)| Involving ignoble actions and motives|
+| Lascivious(adj)| Lecherous, sexually perverted||
 
 ### Worsen
 | Word          | Meaning       | Comments|
@@ -73,6 +76,8 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Menace(n) | Person/Thing that is likely to cause harm||
 | Impend(v)| To hover threatingly| in+pendere(to hang) - pendant, pending, dependent|
 | Devolve(v)| Pass on (your work) to others, grow worse||
+| Vicissitude(n)| A change of circumstances or fortune, typically one that is unwelcome or unpleasant||
+| Expunge(v)| Remove completely| from ex (out) + pungere (to prick)|
 
 
 ### Stubborn
@@ -137,6 +142,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Brusquely(adverb) | In a blunt, direct manner|
 | Forthright(adj)| Characterized by directness in manner or speech|
 | Snub(v)| Refuse to acknowledge; reject bluntly|
+| Overweening(adj)| Over confidence|
 
 
 ### Completely obvious:
@@ -155,6 +161,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Quip(n)| A witty saying or remark||
 | Maxim(n)| A short saying expressing a general truth||
 | Savvy(n, v, adj)| A perceptive understanding, get the meaning of something||
+| Exegesis(n)| Critical explaination or analysis (of text)||
 
 ### Sycophants, flatter:
 | Word          | Meaning       |
@@ -208,9 +215,10 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Gainsay(v)| To deny or contradict (a fact or statement)|
 | Repudiate(v)| Refuse to accept|
 | Maveric(n) | An unorthodox or independent minded person |
-| Polemic(n)| A strong verbal or written attack on someone or something|
+| Polemic(n), Diatribe(n) | A strong verbal or written attack on someone or something|
 | Assail(v)| Attack in speech or writing|
 | Resignation(n)| The acceptence of something unpleasant that can't be avoided|
+| Pariah(n)| An outcast|
 
 
 ### Hard to understand:
@@ -237,26 +245,30 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Mundane(adj)| lacking interest or excitement|
 | Humdrum(adj)| Dull and lacking excitement|
 | Insipid(adj)| Dull and uninteresting|
+| Perfunctory(adj)| Done routinely and with little interest|
 
 ### Large Amount 
-| Word          | Meaning       |
-| ------------- |:------------- |
-| Prodigal (adj)| Spending money or using resources freely and recklessly; wastefully extravagant|
-| Profligate(adj) | Recklessly extravagant or wasteful in the use of resources|
-| Lavish(v, adj)| Giving or using large amount of something, rich|
-| Extravagent(adj)| Exceeding what is reasonable or appropriate; excessive or elaborate|
-| Profuse(adj)| Very plentiful, abundant|
-| Myriad(n, adj)| Countless or extremely great in number|
-| Inundate(v) | To flood or overwhelm|
-| Raft(n) | A large number|
-| Flush(adj)| A large Number |
-| Incessant(adj)| Uninterrupted in time (something unpleasant)|
-| Perennial(adj)| Eternal|
-| Cornucopia(n)| An abundant supply of something good|
-| Squander(v)| Spend thoughtlessly, waste time, money or opportunity|
-| Relentless(adj)| Unceasingly intense, harsh or inflexible|
-| Profusion(n) | Large amount of something|
-| Colossal(adj)| So great in size as to elicit awe|
+| Word          | Meaning       | Comments|
+| ------------- |:------------- |:----------|
+| Prodigal (adj)| Spending money or using resources freely and recklessly; wastefully extravagant||
+| Profligate(adj) | Recklessly extravagant or wasteful in the use of resources||
+| Lavish(v, adj)| Giving or using large amount of something, rich||
+| Extravagent(adj)| Exceeding what is reasonable or appropriate; excessive or elaborate||
+| Profuse(adj)| Very plentiful, abundant||
+| Myriad(n, adj)| Countless or extremely great in number||
+| Inundate(v) | To flood or overwhelm||
+| Raft(n) | A large number||
+| Flush(adj)| A large Number ||
+| Incessant(adj)| Uninterrupted in time (something unpleasant)||
+| Perennial(adj)| Eternal||
+| Cornucopia(n)| An abundant supply of something good||
+| Squander(v)| Spend thoughtlessly, waste time, money or opportunity||
+| Relentless(adj)| Unceasingly intense, harsh or inflexible||
+| Profusion(n) | Large amount of something||
+| Colossal(adj)| So great in size as to elicit awe||
+| Expansive(adj)| Covering a wide area, (of a person) relaxed and genially frank and communicative| Don't confuse with expensive||
+| Arrant(adj)| Completely and wholly| To enhance property of next word, Example: An arrant fool|
+
 
 ### Careful or Limited Amount:  
 | Word          | Meaning       | Comments|
@@ -274,6 +286,8 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Destitute(n, adj)| Poor enough to need help, completely wanting ||
 | Dispatch(n,v)| The property of being prompt and efficient, dispose of rapidly and withoud delay and efficiently||
 | Decimation(n)| The killing or destruction of a large part of group| Divide by 10|
+| Defray(v) | Provide money to pay |dé- (expressing removal) + obsolete frai ‘cost, expenses’ |
+| Penurious(adj)| Lacking money, poor||
 
 ### Generous, polite:
 | Word          | Meaning       |
@@ -375,6 +389,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Pugnacious(adj)| Eager to fight |
 | Bellicose(adj)| Demostrating aggression to fight|
 | Tumult(n)| A state of chaos, noisy|
+| Truculent(adj)| Eager or quick to argue or fight|
 
 ### Encourage:
 | Word          | Meaning       |
@@ -399,6 +414,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Diligent(adj) | Characterized by care and perseverance in doing task||
 | Industrious(adj)| Characterized by hard work and persistence||
 | Discreet(adj)| Careful to protect one's action in order to avoid offence||
+| Sedulous(adj) | Done diligently and carefully||
 
 ### Self Satisfied, Proudy:
 | Word          | Meaning       | Comment |
@@ -424,11 +440,17 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | ------------- |:------------- |:-----------|
 | Cerebral | | Cerebrum (brain)|
 
-### Negligent:
+### Negligent, Lazy:
 | Word          | Meaning       | Comment |
 | ------------- |:------------- |:-----------|
 | Foolhardy(adj)| Marked by defiant disregard for danger or consequences||
 | Cavalier(adj)| Showing a lack of proper concern||
+| Feckless(adj)| Lacking initiative or strength of character; irresponsible| from effeck (effect) + less|
+
+### Lacking Manners:
+| Word          | Meaning       | Comment |
+| ------------- |:------------- |:-----------|
+| Churlish(adj)| Lacking manners||
 
 ## Some Common suffixes, prefixes and roots with examples:
 | Element         | Meaning       | Examples |
@@ -456,9 +478,10 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 
 
 ## Acknowledgement:
-Most of the words here are taken from Maghoosh Flash Cards android application and from book "Word power made easy" by Norman Lewis. 
+Most of the words here are taken from Maghoosh Flash Cards android application and from book "Word power made easy" by Norman Lewis. Some word origins are taken from google and bing search engine's dictionaries.
 
 ## Contribution: 
 Things to do: 
 * GRE Mock Test Links
 * About GRE
+
