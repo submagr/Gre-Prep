@@ -12,14 +12,16 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Rile(v) | Cause annoyance in; disturb, especially by minor irritations|
 | Irascible(adj)| Quickly aroused to anger|
 | Fractious(adj)| Irritable and is likely to cause disruption |
+| Arch(adj)| To be deliberately teasing|
 
 ### To make someone less angry:
 | Word          | Meaning       |
 | ------------- |:------------- |
 | Mollify(v)       |  
-| Coniliate(v)     |  
+| Conciliate(v)     |  
 | Appease(v)			| To make someone pleased by speaking desired things
 | Placate		| 
+| Propitiate(v)| Win or regain the favor of, by doing something that pleases them|
 | [Provocate(v)]	| Make angry or stir up sexual desires
 | Conciliate(v)| To make peace with|
 
@@ -40,6 +42,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Coalesce(v) | To come together to form one group or mass||
 | Redress(n)| An act of making something right||
 | Buttress(v)| To make stronger or defensible||
+| Parvenu(n) | A person who has suddenly become wealthy but not socially accepted| per- "through"  + venire "to come,"|
 
 ### To degrade someone's reputation, To play down
 | Word          | Meaning       | Comments|
@@ -68,6 +71,8 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Relegate(v)| Assign an inferior rank or position to||
 | Sordid(adj)| Involving ignoble actions and motives|
 | Lascivious(adj)| Lecherous, sexually perverted||
+| Palimpsest(n)| Something reused or altered but still bearing visible traces of its earlier form| from palin - again|
+| Mudslinging(n)| The use of insults and accusations, especially unjust ones, with the aim of damaging the reputation of an opponent||
 
 ### Worsen
 | Word          | Meaning       | Comments|
@@ -95,29 +100,28 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Docile(adj)| Easily handled or managed||
 
 ### Scolding
-| Word          | Meaning       |
-| ------------- |:------------- |
-| Acerbic | Harsh in tone |
-| Admonitory/Admonish | To warn severely, even till criticism |
-| Rebuke | Criticize |
-| Censure(v) | Criticize severely |
-|{Censor, Expurgate(v)}| To remove objectionable scenes|
-|{Screed(n)}| An abusive rant |
-| Excoriate(v) | To criticize very harshly |
-| Vituerate(v)| To criticize harshly, bitter and abusive|
-| Invective(n)| Abusive language|
+| Word          | Meaning       | Comments|
+| ------------- |:------------- | :---------|
+| Acerbic | Harsh in tone ||
+| Admonitory/Admonish | To warn severely, even till criticism ||
+| Rebuke | Criticize ||
+| Censure(v) | Criticize severely ||
+|{Censor, Expurgate(v)}| To remove objectionable scenes||
+|{Screed(n)}| An abusive rant ||
+| Excoriate(v) | To criticize very harshly | ex "out, out of, off"  + corium "hide, skin"|
+| Vituperate(v)| To criticize harshly, bitter and abusive||
 
 
 ### Praise
-| Word          | Meaning       |
-| ------------- |:------------- |
-| Espouse(v) | To adopt or support |
-| Exalt| Think or speak very highly of |
-| Apotheosis(n)| Exaltation to divine status; the highest point of development|
-| Veneration\ Reverence | Great respect |
-| Lionize | Assign great social importance to |
-| Accolade| Award, praise granted as special honor|
-| Commendable(adj)| Worthy of high praise |
+| Word          | Meaning       | Comments|
+| ------------- |:------------- | :------------|
+| Espouse(v) | To adopt or support ||
+| Exalt| Think or speak very highly of ||
+| Apotheosis(n)| Exaltation to divine status; the highest point of development| Apo (change) + theo(god)|
+| Veneration\ Reverence | Great respect ||
+| Lionize | Assign great social importance to ||
+| Accolade| Award, praise granted as special honor||
+| Commendable(adj)| Worthy of high praise ||
 
 
 ### Confusion
@@ -266,12 +270,11 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Repudiate(v)| Refuse to accept|
 | Maverick(n) | An unorthodox or independent minded person |
 | Polemic(n), Diatribe(n) | A strong verbal or written attack on someone or something|
+| Invective(n)| Abusive or denunciatory language|
 | Assail(v)| Attack in speech or writing|
 | Resignation(n)| The acceptance of something unpleasant that can't be avoided|
 | Pariah(n)| An outcast|
 | Remonstrate(v)| To demonstrate, protest|
-
-
 
 ### Repeated too often, boring:
 | Word          | Meaning       |
@@ -296,7 +299,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Frivolous(adj)| Not having any serious purpose or value, (of a person) carefree and superficial ||
 | Trifling(adj)	| Unimportant or trivial||
 | Petty(adj)| Of little importance, trivial||
-| Picayune(adj)| Of little value or significance, petty||
+| Picayune(adj)| Of little value or significance, petty| Coin of small value|
 
 
 ### Large Amount 
@@ -358,13 +361,6 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 
  
 
-### Sad:
-| Word          | Meaning       |
-| ------------- |:------------- |
-| Bleak(adj)| Not warm/helpful, gloomy|
-| Cadaverous(adj)| Very pale, thin or bony because of suffering|
-| Melancholy(n)| A deep, long-lasting sadness|
-| Maudlin(adj)| Overly emotional and sad|
 
 
 ### Unplanned:
@@ -377,25 +373,11 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Inadvertent(adj)| Happening by chance|
 | Whimsical(adj)| Determined by impulse or whim|
 | Quixotic(adj )| Extremely idealistic, unrealistic and impractical|
+| Phantasmagorical(adj)| Illusive, unreal|
 | Precarious(adj)| Fraught with danger, uncertain|
 | Foolhardy(adj)| Marked by defiant disregard for danger or consequences||
 
 
-### Happy:
-| Word          | Meaning       | Comments|
-| ------------- |:------------- | :---------|
-| Beatific(adj)| Blissfully happy||
-| Sanguine(ad)| Cheerful, Optimistic||
-| Pollyannaish(adj)| Someone who thinks good things will always happy, finds good things in everything||
-| Winsome(adj)| Attractive in a fresh, innocent, child-like way ||
-| Euphoria(n)| Feeling of great elation||
-| Scintillating(adj) | Brilliant and lively||
-| Placid(adj)| Calm and peaceful| from plac- you'r pleased with the things as they are|
-| Content(adj, verb, noun)| in a state of peaceful happiness, satisfy someone||
-| Jocular(adj)| Characterized by jokes||
-| Guffaw(v)| Laugh roughly and noisily||
-| Glee(n)| Great delight, especially from one's own good fortune or another's misfortune||
-| Schadenfreude(n)| A pleasure derived by someone from another person's misfortune||
 
 ### To hold back:
 | Word          | Meaning       |
@@ -426,6 +408,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Junta(n)| A military or political group that rules a country after taking power by force |
 | Bucolic(adj)| Relating to country or countryside|
 | Pastoral(adj)| Bucolic|
+| Gerrymander(v)| Arrange political divisions in disregard of natural boundaries so as to give one party an advantage in elections|
 
 
 ### Fight, Anger:
@@ -448,6 +431,30 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Goad(v)| Urge on with unpleasant comments|
 | Carp(v)| Complain or find fault continually about trivial matters|
 
+### Happy:
+| Word          | Meaning       | Comments|
+| ------------- |:------------- | :---------|
+| Beatific(adj)| Blissfully happy||
+| Sanguine(ad)| Cheerful, Optimistic||
+| Pollyannaish(adj)| Someone who thinks good things will always happy, finds good things in everything||
+| Winsome(adj)| Attractive in a fresh, innocent, child-like way ||
+| Euphoria(n)| Feeling of great elation||
+| Scintillating(adj) | Brilliant and lively||
+| Placid(adj)| Calm and peaceful| from plac- you'r pleased with the things as they are|
+| Content(adj, verb, noun)| in a state of peaceful happiness, satisfy someone||
+| Jocular(adj)| Characterized by jokes||
+| Guffaw(v)| Laugh roughly and noisily||
+| Glee(n)| Great delight, especially from one's own good fortune or another's misfortune||
+| Schadenfreude(n)| A pleasure derived by someone from another person's misfortune||
+| Mellifluous(adj)| Pleasingly smooth and musical to hear||
+
+### Sad:
+| Word          | Meaning       |
+| ------------- |:------------- |
+| Bleak(adj)| Not warm/helpful, gloomy|
+| Cadaverous(adj)| Very pale, thin or bony because of suffering|
+| Melancholy(n)| A deep, long-lasting sadness|
+| Maudlin(adj)| Overly emotional and sad|
 
 ### Funny:
 | Word          | Meaning       |
@@ -470,7 +477,9 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Complacent | Uncritical satisfaction with oneself| com- + -plac : you are pleased with yourself|
 | Smug | Having or showing excessive pride in oneself||
 | Sanctimonious |making a show of being morally superior to other people||
-| Sententious(adj) | To be moralizing, usually in a pompous sense| |
+| Sententious(adj) | To be moralizing, usually in a pompous sense| Full of meaning, addicted to pompous moralizing|
+| Sybarite(n)| A person who indulges in luxury||
+| Peremptory(adj)| Bossy and dominerring||
 
 
 ### Duty :
@@ -479,7 +488,6 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Incumbent(adj, n)| Necessary as a duty or responsiblity, a person who holds a particular office or position||
 | Behoove(v)| To be one's duty or obligation||
 | Martinet(n)| A person who demands complete obedience, A strict disciplinarian||
-| Peremptory(adj)| Bossy and dominerring||
 
 ### Envy:
 | Word          | Meaning       | Comment |
@@ -491,6 +499,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Word          | Meaning       | Comment |
 | ------------- |:------------- |:-----------|
 | Cerebral | | Cerebrum (brain)|
+| Sangfroid(n)| Composure or coolness shown in danger or under trying circumstances| sang-froid: cold blooded, equanimity, composure|
 
 
 ### Without results
@@ -531,4 +540,5 @@ Most of the words here are taken from Maghoosh Flash Cards android application a
 Things to do: 
 * GRE Mock Test Links
 * About GRE
+* I really find this helpful: http://www.etymonline.com/index.php
 
