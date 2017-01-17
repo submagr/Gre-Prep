@@ -46,24 +46,24 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | ------------- |:------------- |:------|
 | Calumny | Untrue statement to damage someone's reputation ||
 | Denigrate | Charge falsely, attack the good name of||
-| Villify	| To say very harsh things about someone||
+| Vilify	| To say very harsh things about someone||
 | Malign	| Intend to cause harm ||
 | Slander(n)	| The action or crime of making a false spoken statement damaging to a person's reputation ||
 | Calumniate	| To utter false statements about | |
-| {Sinster}		| Harmful ||
+| {Sinister}		| Harmful ||
 | {Indict}		| Formally charge or accuse ||
-| {Vindicate} | Clear someone of blame or accusition ||
+| {Vindicate} | Clear someone of blame or acquisition ||
 | Spurn(v) | Reject with contempt||
-| Derisive(adj) | Abusing vocaly, expressing contempt or redicule||
+| Derisive(adj) | Abusing vocally, expressing contempt or ridicule||
 | Snide(adj)| Mocking, Derogatory in an indirect way||
-| Contempty, disdain, scorn(n) | Feeling that person or thing is worthless||
+| Contempt, disdain, scorn(n) | Feeling that person or thing is worthless||
 | Disparage(v)| Regard as being or little worth||
 | Sneer(v)| A contemptuous or mocking smile||
 | Connive(v)| Taking part in immoral plots||
 | Tarnish(v)| Make dirty or spotty||
 | Belittle(v)| To degrade reputation of someone||
 | Besmirch(v) |damage( someone's reputation )| be + smirch (to stain)||
-| Execrate(v)| To curse and hiss at||
+| Execrate(v)| To curse and hiss at| exe + secrare|
 | Deride(v)| Treat with or speak of with contempt||
 | Relegate(v)| Assign an inferior rank or position to||
 | Sordid(adj)| Involving ignoble actions and motives|
@@ -75,7 +75,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Exacerbate	|				||
 | Detrimental(adj)	| Causing harm ||
 | Menace(n) | Person/Thing that is likely to cause harm||
-| Impend(v)| To hover threatingly| in+pendere(to hang) - pendant, pending, dependent|
+| Impend(v)| To hover threateningly| in+pendere(to hang) - pendant, pending, dependent|
 | Devolve(v)| Pass on (your work) to others, grow worse||
 | Vicissitude(n)| A change of circumstances or fortune, typically one that is unwelcome or unpleasant||
 | Expunge(v)| Remove completely| from ex (out) + pungere (to prick)|
@@ -101,11 +101,11 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Admonitory/Admonish | To warn severely, even till criticism |
 | Rebuke | Criticize |
 | Censure(v) | Criticize severely |
-|{Censor, Expurgate(v)}| To remove objectinable scenes|
+|{Censor, Expurgate(v)}| To remove objectionable scenes|
 |{Screed(n)}| An abusive rant |
 | Excoriate(v) | To criticize very harshly |
 | Vituerate(v)| To criticize harshly, bitter and abusive|
-| Invective(n)| Abusive or denunciatory language|
+| Invective(n)| Abusive language|
 
 
 ### Praise
@@ -116,7 +116,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Apotheosis(n)| Exaltation to divine status; the highest point of development|
 | Veneration\ Reverence | Great respect |
 | Lionize | Assign great social importance to |
-| Accolade| Award, praise granted as special honour|
+| Accolade| Award, praise granted as special honor|
 | Commendable(adj)| Worthy of high praise |
 
 
@@ -134,8 +134,43 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Intermittent(adj)| Stopping and starting at irregular interval||
 | Confound(v) | To cause confusion, mistake one thing for another|
 | Malapropism(n)| A confusion of word with another word that sounds similar|
-| Imbroglio(n)| A confusing and potentially embarassing situation|
+| Imbroglio(n)| A confusing and potentially embarrassing situation|
+| Nuance(n)| A very small difference between color, tone, meaning etc.||
 
+### Hard to understand:
+| Word          | Meaning       | Comments |
+| ------------- |:------------- | :-----------|
+| Abstruse| Difficult to understand||
+| Recondite| Little known, Abstruse||
+| Arcane | Require secret knowledge ||
+| Inscrutable |Impossible to understand ||
+| Opaque | ||
+| Esoteric| Only taught to/ understood by small group||
+| Dialect(n)|a particular form of a language which is peculiar to a specific region or social group||
+| Elude(v)| Escape understanding||
+| Elusive(adj)| Difficult to capture/ remember||
+| Convoluted(adj) | Highly complex or intricate| Based on Convolve: To rotate|
+| Conundrum(n)| A difficult problem||
+| Protean(adj)| Tending or able to change frequently or easily, versatile | From Proteus, sea god, capable of changing its forms|
+
+### Explain in detail:
+| Word          | Meaning       | Comments|
+| ------------- |:------------- | :----------|
+| Delineate (v)| To clearly describe||
+| Expound(v)| To give details||
+| Cogent(adj)| Clear and persuasive||
+| Lucid(adj)| Expressed clearly, transparently||
+| Pithy(adj)| Concise and full of meaning||
+| Quip(n)| A witty saying or remark||
+| Maxim(n)| A short saying expressing a general truth||
+| Savvy(n, v, adj)| A perceptive understanding, get the meaning of something||
+| Exegesis(n)| Critical explanation or analysis (of text)||
+| Limpid(adj)| Having clarity in terms of expression||
+
+### Completely obvious:
+| Word          | Meaning       |
+| ------------- |:------------- |
+| Conspicuous||
 
 ### Forward or bold or rude
 | Word          | Meaning       |
@@ -155,30 +190,11 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Juggernaut(n)| A force that cannot be stopped|
 
 
-### Completely obvious:
-| Word          | Meaning       |
-| ------------- |:------------- |
-| Conspicuous||
-
-### Explain in detail:
-| Word          | Meaning       | Comments|
-| ------------- |:------------- | :----------|
-| Delineate (v)| To clearly describe||
-| Expound(v)| To give details||
-| Cogent(adj)| Clear and persuasive||
-| Lucid(adj)| Expressed clearly, transparently||
-| Pithy(adj)| Concise and full of meaning||
-| Quip(n)| A witty saying or remark||
-| Maxim(n)| A short saying expressing a general truth||
-| Savvy(n, v, adj)| A perceptive understanding, get the meaning of something||
-| Exegesis(n)| Critical explaination or analysis (of text)||
-| Limpid(adj)| Having clarity in terms of expression||
-
 ### Sycophants, flatter:
 | Word          | Meaning       |
 | ------------- |:------------- |
 | Obsequious (adj)| Obedient or attentive to an excessive or servile degree |
-| Ingratiate (v) | Bring oneself into favour by flattering|
+| Ingratiate (v) | Bring oneself into favor by flattering|
 | Servile (adj)| Excessive willingness to serve or please|
 | Fulsome (adj)| Excessive praise or ingratiating flattery|
 | Fawn(v)| Try to gain favor by extreme flattery|
@@ -189,17 +205,18 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | ------------- |:------------- | :---------|
 | Dupe(v)| ||
 | Gullible(adj)| Easily tricked or convinced||
-| Fleece(v)| To decieve||
-| Renege(v)| Fail to fulfil a promise ||
+| Fleece(v)| To deceive||
+| Renege(v)| Fail to fulfill a promise ||
 | Entice(v)| Attract or tempt by offering pleasure or advantage||
 | Illicit(adj)| Contrary to law||
-| {Credulity(adj)}| Tendency to believe readily| Credit, Credulance, Credeblity, Credential: All are related to belief|
-| Deceit(n)| Dishonest behaviour||
+| {Credulity(adj)}| Tendency to believe readily| Credit, Credulance, Credibility, Credential: All are related to belief|
+| Deceit(n)| Dishonest behavior||
 | Discord(n)| Lack of agreement or harmony| based on cord (heart), accord: agreement|
 | Veneer(n)| Covering consisting of a thin superficial layer that hides the underlying substance ||
 | Finagle(v)| Achieve something by means of trickery||
 | Mulct(v)| Extract money from someone by fine or taxation||
 | Quisling(n) | A traitor||
+| Disabuse(v)| To persuade somebody that his/her belief is not valid||
 
 ### Talkative:
 | Word          | Meaning       |
@@ -213,9 +230,9 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Word          | Meaning       | Comments|
 | ------------- |:------------- | :---------|
 | Laconic(adj)| Expressed in few words||
-| Foible(n)| A minor fault in someone's character or behaviour| from feeble||
+| Foible(n)| A minor fault in someone's character or behavior| from feeble||
 | Aphoristic(adj)| A short phrase that expresses true or wise idea| Aphorism|
-| Maxim(n)| A well known phrase that expresses general truth about life or behaviour||
+| Maxim(n)| A well known phrase that expresses general truth about life or behavior||
 | Taciturn(adj)| Reserved nature||
 | Callous(adj)| Insensitive/emotionally hardened||
 | Stolid(adj)| Having or revealing little emotions, not easily aroused||
@@ -238,38 +255,23 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Fledgling(adj)| Young, amateur|
 | Slapdash(adj)| Done in hurry and carelessly|
 
-
-
 ### Opposition:
 | Word          | Meaning       |
 | ------------- |:------------- |
 | Iconoclast(n) | A person who attacks or criticizes cherished beliefs or customs|
 | Radical(adj)| Characterized by departure from tradition, very new and different|
 | Heretic(n)| A person who believes against established norms|
-| Subverst(v)| Undermine the power and authority|
+| Subversive(v)| Undermine the power and authority|
 | Gainsay(v)| To deny or contradict (a fact or statement)|
 | Repudiate(v)| Refuse to accept|
-| Maveric(n) | An unorthodox or independent minded person |
+| Maverick(n) | An unorthodox or independent minded person |
 | Polemic(n), Diatribe(n) | A strong verbal or written attack on someone or something|
 | Assail(v)| Attack in speech or writing|
-| Resignation(n)| The acceptence of something unpleasant that can't be avoided|
+| Resignation(n)| The acceptance of something unpleasant that can't be avoided|
 | Pariah(n)| An outcast|
 | Remonstrate(v)| To demonstrate, protest|
 
 
-### Hard to understand:
-| Word          | Meaning       | Comments |
-| ------------- |:------------- | :-----------|
-| Abstruse| Difficult to understand||
-| Recondite| Little known, Abstruse||
-| Arcane | Require secret knowledge ||
-| Insrutable | ||
-| Opaque | ||
-| Esoteric| Only taught to/ understood by small group||
-| Elusive(adj)| Difficult to capture/ remember||
-| Convoluted(adj) | Highly complex or intricate| Based on Convolve: To rotate|
-| Elude(v)| Escape understanding||
-| Conundrum(n)| A difficult problem||
 
 ### Repeated too often, boring:
 | Word          | Meaning       |
@@ -281,8 +283,20 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Mundane(adj)| lacking interest or excitement|
 | Humdrum(adj)| Dull and lacking excitement|
 | Insipid(adj)| Dull and uninteresting|
-| Jejune(adj)| Dull, lacking flavour, immature, childish|
+| Jejune(adj)| Dull, lacking flavor, immature, childish|
 | Perfunctory(adj)| Done routinely and with little interest|
+
+### Negligent, Lazy, Ignored:
+| Word          | Meaning       | Comment |
+| ------------- |:------------- |:-----------|
+| Foolhardy(adj)| Marked by defiant disregard for danger or consequences||
+| Cavalier(adj)| Showing a lack of proper concern||
+| Feckless(adj)| Lacking initiative or strength of character; irresponsible| from effeck (effect) + less|
+| Benighted(adj)| in a state of pitiful or contemptible intellectual or moral ignorance | be + night, cover in the darkness of night|
+| Frivolous(adj)| Not having any serious purpose or value, (of a person) carefree and superficial ||
+| Trifling(adj)	| Unimportant or trivial||
+| Petty(adj)| Of little importance, trivial||
+| Picayune(adj)| Of little value or significance, petty||
 
 
 ### Large Amount 
@@ -291,7 +305,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Prodigal (adj)| Spending money or using resources freely and recklessly; wastefully extravagant||
 | Profligate(adj) | Recklessly extravagant or wasteful in the use of resources||
 | Lavish(v, adj)| Giving or using large amount of something, rich||
-| Extravagent(adj)| Exceeding what is reasonable or appropriate; excessive or elaborate||
+| Extravagant(adj)| Exceeding what is reasonable or appropriate; excessive or elaborate||
 | Profuse(adj)| Very plentiful, abundant||
 | Myriad(n, adj)| Countless or extremely great in number||
 | Inundate(v) | To flood or overwhelm||
@@ -320,8 +334,8 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Destitute(n, adj)| Poor enough to need help, completely wanting ||
 | Defray(v) | Provide money to pay |dé- (expressing removal) + obsolete frai ‘cost, expenses’ |
 | Pittance(n)| A very small amount of money||
-| Penurious, Impecuious(adj)| Lacking money, poor||
-| Provident(adj)| Making or indicative or timely preperation for the future||
+| Penurious, Impecunious(adj)| Lacking money, poor||
+| Provident(adj)| Making or indicative or timely preparation for the future||
 | Transitory(adj)| Lasting for short time||
 | Venial(adj)| Slight and pardonable, easily excused||
 | Smattering(n)| Slight(Little) understanding of a subject||
@@ -349,7 +363,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | ------------- |:------------- |
 | Bleak(adj)| Not warm/helpful, gloomy|
 | Cadaverous(adj)| Very pale, thin or bony because of suffering|
-| Malencholy(n)| A deep, long-lasting sadness|
+| Melancholy(n)| A deep, long-lasting sadness|
 | Maudlin(adj)| Overly emotional and sad|
 
 
@@ -372,7 +386,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | ------------- |:------------- | :---------|
 | Beatific(adj)| Blissfully happy||
 | Sanguine(ad)| Cheerful, Optimistic||
-| Pollyannish(adj)| Someone who thinks good things will always happe, finds good things in everything||
+| Pollyannaish(adj)| Someone who thinks good things will always happy, finds good things in everything||
 | Winsome(adj)| Attractive in a fresh, innocent, child-like way ||
 | Euphoria(n)| Feeling of great elation||
 | Scintillating(adj) | Brilliant and lively||
@@ -478,12 +492,6 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | ------------- |:------------- |:-----------|
 | Cerebral | | Cerebrum (brain)|
 
-### Negligent, Lazy:
-| Word          | Meaning       | Comment |
-| ------------- |:------------- |:-----------|
-| Foolhardy(adj)| Marked by defiant disregard for danger or consequences||
-| Cavalier(adj)| Showing a lack of proper concern||
-| Feckless(adj)| Lacking initiative or strength of character; irresponsible| from effeck (effect) + less|
 
 ### Without results
 | Word          | Meaning       | Comment |
