@@ -78,6 +78,28 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Mudslinging(n)| The use of insults and accusations, especially unjust ones, with the aim of damaging the reputation of an opponent||
 | Mordant(adj)| Biting and caustic in thought, manner or style| Caustic: sarcastic in scathing and bitter way|
 | Impute(v)| Represent as being done or possessed by someone ||
+| Recrimination(n)| Mutual accusations||
+
+### To hold back:
+| Word          | Meaning       |
+| ------------- |:------------- |
+| Stem(v) | |
+| Militate(v)| (of a fact or circumstance) be a powerful or conclusive factor in preventing|
+| Impede(v)| Delay or prevent by obstructing |
+| Encumber(v)| Restrict or impede (someone or something) in such a way that free action or movement is difficult||
+| Thwart(v)| Hinder|
+| Buck(v)| Resist|
+| Deter(v)| Discourage (someone) from doing something by instilling doubt or fear of the consequences. | 
+| Perturb(v)| Disturb in mind or cause to be worried or alarmed|
+| Hamper(v)| Prevent the progress or free movement of|
+| Hobble(v)| To hold back progress of something|
+| Stymie(v)| Hinder or prevent the progress or accomplishment of|
+| Quail(v)| Draw back, as with fear or pain| (n) It's also a kind of small bird|
+| Apprehension(n)| Anxiety or fear that something bad or unpleasant will happen||
+| Ominous(adj)| Giving the worrying impression that something bad will happen||
+| Portent(n)| A sign or warning that something momentous or calamitous event is likely to happen||
+| Redoubtable(adj)| Inspiring fear or awe||
+| Immure(v)| To enlose, usually in walls|
 
 ### Self Satisfied, Proudy:
 | Word          | Meaning       | Comment |
@@ -87,9 +109,10 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Sanctimonious |making a show of being morally superior to other people||
 | Sententious(adj) | To be moralizing, usually in a pompous sense| Full of meaning, addicted to pompous moralizing|
 | Sybarite(n)| A person who indulges in luxury||
-| Peremptory(adj)| Bossy and dominerring||
+| Peremptory(adj)| Bossy and domineering||
 | Vanity(adj)| Excessive pride in or admiration of one's own achievements, appearance||
 | Gradiloquent(adj)| Puffed up with vanity||
+| Hubris(n)| Overbearing pride or presumption||
 
 ### Scolding
 | Word          | Meaning       | Comments|
@@ -100,6 +123,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Censure(v) | Criticize severely ||
 |{Censor, Expurgate(v)}| To remove objectionable scenes||
 | Bowdlerize(v)| Remove objectionable material | From the name of Dr Thomas Bowdler (1754–1825), who published an expurgated edition of Shakespeare in 1818|
+| Lacerate(v)| Deeply hurt the feelings of| To tear into pieces|
 |{Screed(n)}| An abusive rant ||
 | Excoriate(v) | To criticize very harshly | ex "out, out of, off"  + corium "hide, skin"|
 | Vitriolic(adj)| Harsh and corrosive in tone||
@@ -120,6 +144,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Word          | Meaning       | Comments|
 | ------------- |:------------- | :--------- |
 | Adamant(adj)	|				||
+| Obstreperous |Noisily and stubbornly defiant, willfully difficult to control||
 | Obstinate| Resistant to guidance, Stubbornly persistent ||
 | Intransigent| ||
 | Incorrigible | ||
@@ -127,7 +152,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Obdurate(adj) | Unable to be persuaded ||
 | Steadfast| Marked by firm determination| Steadly + Fasten(firmed, tight)|
 | Implacable | Unyielding to request, relentless||
-| Docile(adj)| Easily handled or managed||
+| {Docile(adj)}| Easily handled or managed||
 
 
 
@@ -139,6 +164,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Enthrall(v)| Hold spellbound||
 | Apotheosis(n)| Exaltation to divine status; the highest point of development| Apo (change) + theo(god)|
 | Veneration\ Reverence | Great respect ||
+| Reverent(adj)| Feeling or showing deep respect||
 | Accolade| Award, praise granted as special honor||
 | Commendable(adj)| Worthy of high praise ||
 | Creditable(adj)| (of a performance, effort, or action) deserving public acknowledgement and praise but not necessarily outstanding or successful||
@@ -180,6 +206,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Convoluted(adj) | Highly complex or intricate| Based on Convolve: To rotate|
 | Conundrum(n)| A difficult problem||
 | Protean(adj)| Tending or able to change frequently or easily, versatile | From Proteus, sea god, capable of changing its forms|
+| Denouement(n)| The final part of a play, film, or narrative in which the strands of the plot are drawn together and matters are explained or resolved.||
 
 ### Explain in detail:
 | Word          | Meaning       | Comments|
@@ -189,6 +216,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Cogent(adj)| Clear and persuasive||
 | Lucid(adj)| Expressed clearly, transparently||
 | Limpid(adj)| Having clarity in terms of expression||
+| Crystallize(v)| Cause to take on a definite and clear shape||
 | Pithy(adj)| Concise and full of meaning||
 | Savvy(n, v, adj)| A perceptive understanding, get the meaning of something||
 | Perspicacious(adj)| Acutely insightful and wise , having a ready insight into and understanding of things||
@@ -201,12 +229,14 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | ------------- |:------------- |:-----------|
 | Cerebral | | Cerebrum (brain)|
 | Sangfroid(n)| Composure or coolness shown in danger or under trying circumstances| sang-froid: cold blooded, equanimity, composure|
+| Unflappable(adj)| Not easily perturbed or excited or upset, marked by extreme calm and composure||
 | Sagacious(adj)| Having or showing clean mental judgement and acute insight||
 
 ### Completely obvious:
 | Word          | Meaning       |
 | ------------- |:------------- |
 | Conspicuous||
+| Patent(adj)| Glaringly obvious|
 
 ### Forward or bold or rude
 | Word          | Meaning       |
@@ -225,6 +255,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Snub(v)| Refuse to acknowledge; reject bluntly|
 | Overweening(adj)| Over confidence|
 | Juggernaut(n)| A force that cannot be stopped|
+| {Intimation(n)} | An indirect suggestion|
 
 
 ### Sycophants, flatter:
@@ -248,13 +279,14 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Illicit(adj)| Contrary to law||
 | {Credulity(adj)}| Tendency to believe readily| Credit, Credulance, Credibility, Credential: All are related to belief|
 | Deceit(n)| Dishonest behavior||
-| Discord(n)| Lack of agreement or harmony| based on cord (heart), accord: agreement|
+| Subterfuge(n)| Something intended to misrepresent the true nature of something, deceit used in order to achieve one's goal||
+| Semblance(n)| The outward appearance or apparent form of something, especially when the reality is different| Assemble, Resemble,  from semblant "likeness, appearance" |
 | Veneer(n)| Covering consisting of a thin superficial layer that hides the underlying substance ||
 | Finagle(v)| Achieve something by means of trickery||
 | Mulct(v)| Extract money from someone by fine or taxation||
+| Discord(n)| Lack of agreement or harmony| based on cord (heart), accord: agreement|
 | Quisling(n) | A traitor||
 | Disabuse(v)| To persuade somebody that his/her belief is not valid||
-| Semblance(n)| The outward appearance or apparent form of something, especially when the reality is different| Assemble, Resemble,  from semblant "likeness, appearance" |
 
 ### Talkative:
 | Word          | Meaning       |
@@ -283,11 +315,12 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Morose(adj) | Ill tempered, not inclined to talk||
 | Tawdry(adj)| tasteless showy, cheap, showdy||
 
-### Lacking Manners:
+### Lacking manners:
 | Word          | Meaning       | Comment |
 | ------------- |:------------- |:-----------|
 | Churlish(adj)| Lacking manners||
 | Solecism(n)| A socially awkward or tactless act, a grammatical mistake in speech or writing||
+| Asperity(n)| Harshness of manners||
 
 ### Amateur:
 | Word          | Meaning       |
@@ -322,26 +355,13 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Cliche(n)||
 | Trite(adj)| (of a remark or idea) lacking originality and freshness|
 | Mundane(adj)| lacking interest or excitement|
+| Inure(v)| Accustomed to something (that is unpleasant)|
 | Litany(n)| A tedious recital or repetitive series, any long and tedious amount of something||
 | Humdrum(adj)| Dull and lacking excitement|
 | Insipid(adj)| Dull and uninteresting|
 | Jejune(adj)| Dull, lacking flavor, immature, childish|
+| Puerile(adj)| Of a characteristic of a child, displaying or suggesting a lack of maturity||
 | Perfunctory(adj)| Done routinely and with little interest|
-
-### Negligent, Lazy, Ignored:
-| Word          | Meaning       | Comment |
-| ------------- |:------------- |:-----------|
-| Foolhardy(adj)| Marked by defiant disregard for danger or consequences||
-| Cavalier(adj)| Showing a lack of proper concern||
-| Insouciance(n)| Lack of concern||
-| Feckless(adj)| Lacking initiative or strength of character; irresponsible| from effeck (effect) + less|
-| Benighted(adj)| in a state of pitiful or contemptible intellectual or moral ignorance | be + night, cover in the darkness of night|
-| Frivolous(adj)| Not having any serious purpose or value, (of a person) carefree and superficial ||
-| Trifling(adj)	| Unimportant or trivial||
-| Petty(adj)| Of little importance, trivial||
-| Picayune(adj)| Of little value or significance, petty| Coin of small value|
-| Sinecure(n)| An office that involves minimal duties||
-
 
 ### Large Amount 
 | Word          | Meaning       | Comments|
@@ -366,6 +386,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Arrant(adj)| Completely and wholly| To enhance property of next word, Example: An arrant fool|
 | Histrionic(adj)| To be overly theatrical||
 | Cupidity(n)| Greed for money||
+| Cosset(v)| Care for and protect in an overindulgance way||
 
 
 
@@ -406,43 +427,45 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | ------------- |:------------- |
 | Erratic(adj) | Acting or moving in ways that are not predictable|
 | Haphazardly(adj)| Having no plan, order, random|
-| Caprice(n), Mercurial(adj)| Sudden, unpredictable change in mood |
-| Fortuitous(adj)| Happening by a lucky chance|
-| Inadvertent(adj)| Happening by chance|
-| Whimsical(adj)| Determined by impulse or whim|
 | Quixotic(adj )| Extremely idealistic, unrealistic and impractical|
 | Phantasmagorical(adj)| Illusive, unreal|
+| Caprice(n), Mercurial(adj)| Sudden, unpredictable change in mood |
+| Whimsical(adj)| Determined by impulse or whim|
+| Impetuous(adj)| Characterized by undue haste and lack of thought or deliberation||
+| Fortuitous(adj)| Happening by a lucky chance|
+| Inadvertent(adj)| Happening by chance|
 | Precarious(adj)| Fraught with danger, uncertain|
+| Tempestuous(adj)| As if driven by turbulent or conflicting emotions; highly energetic and wildly changing emotions or fluctuating|
 | Foolhardy(adj)| Marked by defiant disregard for danger or consequences||
 | Maunder(v)| Wander aimlessly, speak rapidly and incessantly|
 
 
+### Negligent, Lazy, Ignored:
+| Word          | Meaning       | Comment |
+| ------------- |:------------- |:-----------|
+| Cavalier(adj)| Showing a lack of proper concern||
+| Levity(n)| A lack of seriousness||
+| Flippant(adj)| Showing inappropriate levity||
+| Insouciance(n)| Lack of concern||
+| Feckless(adj)| Lacking initiative or strength of character; irresponsible| from effeck (effect) + less|
+| Benighted(adj)| in a state of pitiful or contemptible intellectual or moral ignorance | be + night, cover in the darkness of night|
+| Frivolous(adj)| Not having any serious purpose or value, (of a person) carefree and superficial ||
+| Foolhardy(adj)| Marked by defiant disregard for danger or consequences||
+| Trifling(adj)	| Unimportant or trivial||
+| Petty(adj)| Of little importance, trivial||
+| Picayune(adj)| Of little value or significance, petty| Coin of small value|
+| Sinecure(n)| An office that involves minimal duties||
 
-### To hold back:
-| Word          | Meaning       |
-| ------------- |:------------- |
-| Stem(v) | |
-| Militate(v)| (of a fact or circumstance) be a powerful or conclusive factor in preventing|
-| Impede(v)| Delay or prevent by obstructing |
-| Thwart(v)| Hinder|
-| Buck(v)| Resist|
-| Deter(v)| Discourage (someone) from doing something by instilling doubt or fear of the consequences. | 
-| Perturb(v)| Disturb in mind or cause to be worried or alarmed|
-| Hamper(v)| Prevent the progress or free movement of|
-| Stymie(v)| Hinder or prevent the progress or accomplishment of|
-| Quail(v)| Draw back, as with fear or pain| (n) It's also a kind of small bird|
-| Apprehension(n)| Anxiety or fear that something bad or unpleasant will happen||
-| Ominous(adj)| Giving the worrying impression that something bad will happen||
-| Portent(n)| A sign or warning that something momentous or calamitous event is likely to happen||
-| Redoubtable(adj)| Inspiring fear or awe||
 
 ### To support:
-| Word          | Meaning       |
-| ------------- |:------------- |
-| Corroborate(v)| Lend support to (fact)|
-| Propound(v) | Propose or put forward for other's consideration |
-| Tout(v)| Advertise in strongly positive terms|
-| Condone(v)| To forgive, overlook of (illegal offense)|
+| Word          | Meaning       | Comments|
+| ------------- |:------------- | :------------|
+| Corroborate(v)| Lend support to (fact)||
+| Propound(v) | Propose or put forward for other's consideration ||
+| Tout(v)| Advertise in strongly positive terms||
+| Condone(v)| To forgive, overlook of (illegal offense)||
+| Dovetail(v)| Fit together tightly|It's a kind of a mechanical link. See [Image](http://www.oxfordlearnersdictionaries.com/media/american_english/fullsize/d/dov/dovet/dovetail.jpg)|
+| Pertinent(adj), Appasite(adj)| Relevant or applicable to a particular matter, Apt in the circumstances or in relation to something| Ad + ponere(to place), pose : position|
 
 ### Nation, Patriotism, Politics:
 | Word          | Meaning       |
@@ -506,7 +529,9 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Word          | Meaning       | Comments|
 | ------------- |:------------- | :---------|
 | Facetious(adj) | Cleverly amusing in tone|
+| Rivald(adj)| Referring to sexual matters in an amusingly rude or irreverent way||
 | Lampoon(v)| Ridicule with satire||
+
 
 
 ### Hard working, Persistent:
@@ -519,6 +544,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Punctilious(adj)| Marked by precise accordance with details||
 | Industrious(adj)| Characterized by hard work and persistence||
 | Discreet(adj)| Careful to protect one's action in order to avoid offence||
+| Stalwart(adj)| Dependable, injured to fatigure or hardships| stal (to place)+ worth|
 
 
 
@@ -529,6 +555,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Behoove(v)| To be one's duty or obligation||
 | Enjoin(v)| Give instructions to or direct somebody to do something with authority||
 | Martinet(n)| A person who demands complete obedience, A strict disciplinarian||
+| Magisterial(adj)| Having or showing great authority||
 | Plucky(adj)| Marked by courage and determination||
 | Derelict(adj,n )| (of a person) not doing one's duty, (of a building) abandoned||
 
@@ -545,6 +572,8 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Word          | Meaning       | Comment |
 | ------------- |:------------- |:-----------|
 | Pyrrhic(adj)| Describing a costly victory that is not worthwhile||
+| Futile(adj)|||
+| Unpropitious(adj)| (of a circumstance) With little chance of success||
 
 ### Specific professions, jobs or hobbies:
 | Word          | Meaning       | Comment |
