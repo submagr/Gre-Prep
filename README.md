@@ -14,6 +14,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Fractious(adj)| Irritable and is likely to cause disruption |
 | Arch(adj)| To be deliberately teasing|
 | Umbrage(n)| A feeling or anger caused by being offended||
+| Chagrin(n)| Annoyance or distress at having failed or been humiliated||
 
 ### To make someone less angry:
 | Word          | Meaning       |
@@ -176,6 +177,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Word          | Meaning       |
 | ------------- |:------------- |
 | Equivocate(v)/Prevaricate(v) Equivocal(adj)| To talk in evasive way, without taking any single stand|
+| Disingenuous(adj)| Not straightforward; giving a false appearance of frankness||
 | Hedge(v)| To limit or qualify a statement; to avoid making a direct statement|
 | Perplexity(n) | State of bafflement(not sure what to do) |
 | Flux(n) | Not certain what to do|
@@ -221,6 +223,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Savvy(n, v, adj)| A perceptive understanding, get the meaning of something||
 | Perspicacious(adj)| Acutely insightful and wise , having a ready insight into and understanding of things||
 | Exegesis(n)| Critical explanation or analysis (of text)||
+| Epigram(n)| A witty saying||
 | Quip(n)| A witty saying or remark||
 | Maxim(n)| A short saying expressing a general truth||
 
@@ -231,6 +234,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Sangfroid(n)| Composure or coolness shown in danger or under trying circumstances| sang-froid: cold blooded, equanimity, composure|
 | Unflappable(adj)| Not easily perturbed or excited or upset, marked by extreme calm and composure||
 | Sagacious(adj)| Having or showing clean mental judgement and acute insight||
+| Percipient(adj)| Highly perceptive, having good insight or understanding;||
 
 ### Completely obvious:
 | Word          | Meaning       |
@@ -279,18 +283,21 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Illicit(adj)| Contrary to law||
 | {Credulity(adj)}| Tendency to believe readily| Credit, Credulance, Credibility, Credential: All are related to belief|
 | Deceit(n)| Dishonest behavior||
+| Artifice(n)| Cunning tricks used to deceit others||
 | Subterfuge(n)| Something intended to misrepresent the true nature of something, deceit used in order to achieve one's goal||
 | Semblance(n)| The outward appearance or apparent form of something, especially when the reality is different| Assemble, Resemble,  from semblant "likeness, appearance" |
 | Veneer(n)| Covering consisting of a thin superficial layer that hides the underlying substance ||
 | Finagle(v)| Achieve something by means of trickery||
+| Ersatz, Phony, Phoney(adj)| Not genuine; fraudulent||
 | Mulct(v)| Extract money from someone by fine or taxation||
 | Discord(n)| Lack of agreement or harmony| based on cord (heart), accord: agreement|
 | Quisling(n) | A traitor||
 | Disabuse(v)| To persuade somebody that his/her belief is not valid||
 
 ### Talkative:
-| Word          | Meaning       |
-| ------------- |:------------- |
+| Word          | Meaning       | Comments|
+| ------------- |:------------- |:---------|
+| Loquacious(adj)| People who love to talk so much that you wish that they could stop for a breathe and provide you a turn to speak| From loquor: to speak|
 | Glib (adj) | fluent but insincere and shallow|
 | Garrulous(adj) | Excessively talkative, especially on trivial matters |
 | Affable(adj)| Easy to talk to |
@@ -305,7 +312,8 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Foible(n)| A minor fault in someone's character or behavior| from feeble||
 | Aphoristic(adj)| A short phrase that expresses true or wise idea| Aphorism|
 | Maxim(n)| A well known phrase that expresses general truth about life or behavior||
-| Taciturn(adj)| Reserved nature||
+| Apothegm(n)| A concise saying or maxim; an aphorism||
+| Taciturn(adj)| Reserved nature; Abnormal disinclination to conversation; Permanent, habitual and temperamental(habitual) disinclination to talk | From verb taceo: to be silent, tacit: an unspoken agreement, reticent: unwilling to share feeling, shy|
 | Unforthcoming(adj)| Uncooperative, not willing to give up information||
 | Callous(adj)| Insensitive/emotionally hardened||
 | Stolid(adj)| Having or revealing little emotions, not easily aroused||
@@ -321,6 +329,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Churlish(adj)| Lacking manners||
 | Solecism(n)| A socially awkward or tactless act, a grammatical mistake in speech or writing||
 | Asperity(n)| Harshness of manners||
+| Antic(adj)| Ludicrously odd||
 
 ### Amateur:
 | Word          | Meaning       |
@@ -341,6 +350,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Repudiate(v)| Refuse to accept|
 | Maverick(n) | An unorthodox or independent minded person |
 | Polemic(n), Diatribe(n) | A strong verbal or written attack on someone or something|
+| Broadside(n)| A fierce verbal attack|
 | Invective(n)| Abusive or denunciatory language|
 | Assail(v)| Attack in speech or writing|
 | Resignation(n)| The acceptance of something unpleasant that can't be avoided|
@@ -420,6 +430,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Decorous(adj) | Polite and restrained|
 | Placid(adj)| Not easily irritated|
 | Chivalry(n)| Being attentive to woman like an ideal knight|
+| Unstinting(adj)| Very generous||
 
 
 ### Unplanned:
@@ -428,6 +439,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Erratic(adj) | Acting or moving in ways that are not predictable|
 | Haphazardly(adj)| Having no plan, order, random|
 | Quixotic(adj )| Extremely idealistic, unrealistic and impractical|
+| Chimera(n)| Something desired or wished for but is only an illusion and impossible to achieve|
 | Phantasmagorical(adj)| Illusive, unreal|
 | Caprice(n), Mercurial(adj)| Sudden, unpredictable change in mood |
 | Whimsical(adj)| Determined by impulse or whim|
@@ -455,6 +467,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Petty(adj)| Of little importance, trivial||
 | Picayune(adj)| Of little value or significance, petty| Coin of small value|
 | Sinecure(n)| An office that involves minimal duties||
+| Philistine(adj)| Smug and ignorant towards artistic and cultural values||
 
 
 ### To support:
@@ -466,6 +479,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Condone(v)| To forgive, overlook of (illegal offense)||
 | Dovetail(v)| Fit together tightly|It's a kind of a mechanical link. See [Image](http://www.oxfordlearnersdictionaries.com/media/american_english/fullsize/d/dov/dovet/dovetail.jpg)|
 | Pertinent(adj), Appasite(adj)| Relevant or applicable to a particular matter, Apt in the circumstances or in relation to something| Ad + ponere(to place), pose : position|
+| Appurtenant(adj)| Supply added support||
 
 ### Nation, Patriotism, Politics:
 | Word          | Meaning       |
@@ -506,6 +520,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Sanguine(ad)| Cheerful, Optimistic||
 | Pollyannaish(adj)| Someone who thinks good things will always happy, finds good things in everything||
 | Winsome(adj)| Attractive in a fresh, innocent, child-like way ||
+| Debonair(adj)| Having a sophisticated charm, confident, stylish||
 | Euphoria(n)| Feeling of great elation||
 | Scintillating(adj) | Brilliant and lively||
 | Placid(adj)| Calm and peaceful| from plac- you'r pleased with the things as they are|
@@ -524,6 +539,8 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Cadaverous(adj)| Very pale, thin or bony because of suffering|
 | Melancholy(n)| A deep, long-lasting sadness|
 | Maudlin(adj)| Overly emotional and sad|
+| Stoic(n)| A person who accepts what happens without complaining or showing emotion|
+| Doleful(adj)| Filled with or evoking sadness| |
 
 ### Funny:
 | Word          | Meaning       | Comments|
@@ -555,9 +572,12 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Behoove(v)| To be one's duty or obligation||
 | Enjoin(v)| Give instructions to or direct somebody to do something with authority||
 | Martinet(n)| A person who demands complete obedience, A strict disciplinarian||
+| Browbeat(v)| Be bossy towards; discourage or frighten with threats or a domineering manner||
 | Magisterial(adj)| Having or showing great authority||
 | Plucky(adj)| Marked by courage and determination||
 | Derelict(adj,n )| (of a person) not doing one's duty, (of a building) abandoned||
+| Arrogate(v)| Seize and control without authority||
+
 
 
 ### Envy:
@@ -565,8 +585,6 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | ------------- |:------------- |:-----------|
 | Begrudge(v)| To envy someone for possessing/enjoying somenthing||
 | Jaundiced(adj)| To be biased against due to envy or prejudice||
-
-
 
 ### Without results
 | Word          | Meaning       | Comment |
@@ -605,6 +623,8 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | dono | to give | donor, condone|
 | Par | equal| as par, parity, disparity, comparision, disparage|
 | Epi-, eph-, ep- | On, upon, above | Epiphany, Epicenter |
+| Loqur| To speak| Loquacious(adj): excessively talkative, Soliloquy(adj): who speak to oneself; Soliloquist(n): characters speaking thoughts aloud; Ventriloquist(adj) One who can throw his voice (to a puppet); Colloquial: To speak together, informal speech; Circumlocution: talking around, prevaricate;|
+
 
 ## Acknowledgement:
 Most of the words here are taken from Maghoosh Flash Cards android application and from book "Word power made easy" by Norman Lewis. Some word origins are taken from google and bing search engine's dictionaries.
