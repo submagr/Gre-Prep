@@ -15,6 +15,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Arch(adj)| To be deliberately teasing|
 | Umbrage(n)| A feeling or anger caused by being offended||
 | Chagrin(n)| Annoyance or distress at having failed or been humiliated||
+| Noisome(adj)| Having an extremely bad smell| (annoy)some|
 
 ### To make someone less angry:
 | Word          | Meaning       |
@@ -46,6 +47,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Redress(n)| An act of making something right||
 | Buttress(v)| To make stronger or defensible||
 | Parvenu(n) | A person who has suddenly become wealthy but not socially accepted| per- "through"  + venire "to come,"|
+| Afford(v)| Provide with an opportunity||
 
 ### To degrade someone's reputation, To play down
 | Word          | Meaning       | Comments|
@@ -80,6 +82,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Mordant(adj)| Biting and caustic in thought, manner or style| Caustic: sarcastic in scathing and bitter way|
 | Impute(v)| Represent as being done or possessed by someone ||
 | Recrimination(n)| Mutual accusations||
+| Impugn(v)| Attack as false or wrong| in(towards) + pugnare(fight), see Pugnacious|
 
 ### To hold back:
 | Word          | Meaning       |
@@ -101,6 +104,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Portent(n)| A sign or warning that something momentous or calamitous event is likely to happen||
 | Redoubtable(adj)| Inspiring fear or awe||
 | Immure(v)| To enlose, usually in walls|
+| Desideratum(n)| Something desired as a neccessity|
 
 ### Self Satisfied, Proudy:
 | Word          | Meaning       | Comment |
@@ -114,6 +118,9 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Vanity(adj)| Excessive pride in or admiration of one's own achievements, appearance||
 | Gradiloquent(adj)| Puffed up with vanity||
 | Hubris(n)| Overbearing pride or presumption||
+| Hauteur(n)| Overbearing pride evidenced by superior manner towards inferiors||
+| Pontificate(v)| To express one's opinion in a pompous and dogmatic way||
+| Turgid(adj)| Pompous and tedious(monotonous)||
 
 ### Scolding
 | Word          | Meaning       | Comments|
@@ -139,6 +146,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Devolve(v)| Pass on (your work) to others, grow worse||
 | Vicissitude(n)| A change of circumstances or fortune, typically one that is unwelcome or unpleasant||
 | Expunge(v)| Remove completely| from ex (out) + pungere (to prick)|
+| Conflagration(n)| A very intense and uncontrolled fire||
 
 
 ### Stubborn
@@ -161,16 +169,18 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Word          | Meaning       | Comments|
 | ------------- |:------------- | :------------|
 | Espouse(v) | To adopt or support ||
+| Commendable(adj)| Worthy of high praise ||
+| Approbatory(adj)| Expressing praise or approval| Approbation- from approve, proven effectiveness, excellence|
+| Panegyric(n)| A formal expression of praise||
+| Vaunted(adj)| Boast about or praise something, especially excessively||
 | Exalt| Think or speak very highly of ||
 | Enthrall(v)| Hold spellbound||
 | Apotheosis(n)| Exaltation to divine status; the highest point of development| Apo (change) + theo(god)|
 | Veneration\ Reverence | Great respect ||
 | Reverent(adj)| Feeling or showing deep respect||
 | Accolade| Award, praise granted as special honor||
-| Commendable(adj)| Worthy of high praise ||
 | Creditable(adj)| (of a performance, effort, or action) deserving public acknowledgement and praise but not necessarily outstanding or successful||
 | Lionize | Assign great social importance to ||
-| Approbatory(adj)| Expressing praise or approval| Approbation- from approve, proven effectiveness, excellence|
 
 
 ### Confusion
@@ -192,6 +202,9 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Malapropism(n)| A confusion of word with another word that sounds similar|
 | Imbroglio(n)| A confusing and potentially embarrassing situation|
 | Nuance(n)| A very small difference between color, tone, meaning etc.||
+| Conflate(v)| Mix together different elements or concepts|
+| Facile(adj)| Lacking depth, ignoring the true complexities of an issue, superficial| Superficial: Appearing to be true or real only until examined more closely|
+| Discursive(adj)| Tending to depart from the main point||
 
 ### Hard to understand:
 | Word          | Meaning       | Comments |
@@ -210,13 +223,14 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Protean(adj)| Tending or able to change frequently or easily, versatile | From Proteus, sea god, capable of changing its forms|
 | Denouement(n)| The final part of a play, film, or narrative in which the strands of the plot are drawn together and matters are explained or resolved.||
 
+
 ### Explain in detail:
 | Word          | Meaning       | Comments|
 | ------------- |:------------- | :----------|
 | Expound(v)| To give details||
 | Delineate (v)| To clearly describe||
 | Cogent(adj)| Clear and persuasive||
-| Lucid(adj)| Expressed clearly, transparently||
+| Lucid(adj)| Expressed clearly, transparently| Pellucid(adj): *TRANSLUCENTLY* clear|
 | Limpid(adj)| Having clarity in terms of expression||
 | Crystallize(v)| Cause to take on a definite and clear shape||
 | Pithy(adj)| Concise and full of meaning||
@@ -232,6 +246,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | ------------- |:------------- |:-----------|
 | Cerebral | | Cerebrum (brain)|
 | Sangfroid(n)| Composure or coolness shown in danger or under trying circumstances| sang-froid: cold blooded, equanimity, composure|
+| Aplomb(n)| Great coolness and composure under strain||
 | Unflappable(adj)| Not easily perturbed or excited or upset, marked by extreme calm and composure||
 | Sagacious(adj)| Having or showing clean mental judgement and acute insight||
 | Percipient(adj)| Highly perceptive, having good insight or understanding;||
@@ -271,17 +286,19 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Fulsome (adj)| Excessive praise or ingratiating flattery|
 | Fawn(v)| Try to gain favor by extreme flattery|
 | Factitious(adj)| Artificial, man-made|
+| Solicitous(adj)| Showing hovering attentiveness||
 
 ### Trick, Betrayal:
 | Word          | Meaning       | Comments|
 | ------------- |:------------- | :---------|
 | Dupe(v)| ||
 | Gullible(adj)| Easily tricked or convinced||
+| {Credulity(adj)}| Tendency to believe readily| Credit, Credulance, Credibility, Credential: All are related to belief|
 | Fleece(v)| To deceive||
 | Renege(v)| Fail to fulfill a promise ||
 | Entice(v)| Attract or tempt by offering pleasure or advantage||
 | Illicit(adj)| Contrary to law||
-| {Credulity(adj)}| Tendency to believe readily| Credit, Credulance, Credibility, Credential: All are related to belief|
+| Complicit(adj)| Involved with others in an activity that is unlawful or morally wrong||
 | Deceit(n)| Dishonest behavior||
 | Artifice(n)| Cunning tricks used to deceit others||
 | Subterfuge(n)| Something intended to misrepresent the true nature of something, deceit used in order to achieve one's goal||
@@ -293,6 +310,8 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Discord(n)| Lack of agreement or harmony| based on cord (heart), accord: agreement|
 | Quisling(n) | A traitor||
 | Disabuse(v)| To persuade somebody that his/her belief is not valid||
+| Inequity(n)| Lack of fairness or justice||
+| Malingerer(n)| Someone shirking their duty by pretending to be sick or incapacitated| Shirker(n)|
 
 ### Talkative:
 | Word          | Meaning       | Comments|
@@ -340,38 +359,42 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Slapdash(adj)| Done in hurry and carelessly|
 
 ### Opposition:
-| Word          | Meaning       |
-| ------------- |:------------- |
-| Iconoclast(n) | A person who attacks or criticizes cherished beliefs or customs|
-| Radical(adj)| Characterized by departure from tradition, very new and different|
-| Heretic(n)| A person who believes against established norms|
-| Subversive(v)| Undermine the power and authority|
-| Gainsay(v)| To deny or contradict (a fact or statement)|
-| Repudiate(v)| Refuse to accept|
-| Maverick(n) | An unorthodox or independent minded person |
-| Polemic(n), Diatribe(n) | A strong verbal or written attack on someone or something|
-| Broadside(n)| A fierce verbal attack|
-| Invective(n)| Abusive or denunciatory language|
-| Assail(v)| Attack in speech or writing|
-| Resignation(n)| The acceptance of something unpleasant that can't be avoided|
-| Pariah(n)| An outcast|
-| Remonstrate(v)| To demonstrate, protest|
+| Word          | Meaning       | Comments|
+| ------------- |:------------- | :-------|
+| Iconoclast(n) | A person who attacks or criticizes cherished beliefs or customs||
+| Radical(adj)| Characterized by departure from tradition, very new and different||
+| Heretic(n)| A person who believes against established norms||
+| Subversive(v)| Undermine the power and authority||
+| Gainsay(v)| To deny or contradict (a fact or statement)||
+| Repudiate(v)| Refuse to accept||
+| Abjure(v)| Formally reject or give up (a belief, cause or claim)| ab(away) + jurare(swear)|
+| Maverick(n) | An unorthodox or independent minded person ||
+| Polemic(n), Diatribe(n) | A strong verbal or written attack on someone or something||
+| Broadside(n)| A fierce verbal attack||
+| Invective(n)| Abusive or denunciatory language||
+| Assail(v)| Attack in speech or writing||
+| Resignation(n)| The acceptance of something unpleasant that can't be avoided||
+| Pariah(n)| An outcast||
+| Remonstrate(v)| To demonstrate, protest||
+| Bridle(v)| The headgear used to control a horse; To show one resentment's or anger||
 
 ### Repeated too often, boring:
-| Word          | Meaning       |
-| ------------- |:------------- |
-| Hackneyed(adj)| Repeated too often to become dull|
-| Banal(adj)| Boring or ordinary|
-| Cliche(n)||
-| Trite(adj)| (of a remark or idea) lacking originality and freshness|
-| Mundane(adj)| lacking interest or excitement|
-| Inure(v)| Accustomed to something (that is unpleasant)|
+| Word          | Meaning       | Comments|
+| ------------- |:------------- | :--------|
+| Hackneyed(adj)| Repeated too often to become dull||
+| Banal(adj)| Boring or ordinary||
+| Desiccate(adj)| Remove the moisture from (in order to preserve); lacking interest, passion or energy||
+| Cliche(n)|||
+| Trite(adj)| (of a remark or idea) lacking originality and freshness| Bromide(n): a trite or obvious remark|
+| Mundane(adj)| lacking interest or excitement||
+| Inure(v)| Accustomed to something (that is unpleasant)||
 | Litany(n)| A tedious recital or repetitive series, any long and tedious amount of something||
-| Humdrum(adj)| Dull and lacking excitement|
-| Insipid(adj)| Dull and uninteresting|
-| Jejune(adj)| Dull, lacking flavor, immature, childish|
-| Puerile(adj)| Of a characteristic of a child, displaying or suggesting a lack of maturity||
-| Perfunctory(adj)| Done routinely and with little interest|
+| Humdrum(adj)| Dull and lacking excitement||
+| Insipid(adj)| Dull and uninteresting||
+| Jejune(adj)| Dull, lacking flavor, immature, childish||
+| Puerile(adj)| Of a characteristic of a child, displaying or suggesting a lack of maturity|||
+| Perfunctory(adj)| Done routinely and with little interest||
+| Stultify(v)| Cause to lose enthusiasm and initiative, especially as a result of tedious or restrictive routine||
 
 ### Large Amount 
 | Word          | Meaning       | Comments|
@@ -397,6 +420,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Histrionic(adj)| To be overly theatrical||
 | Cupidity(n)| Greed for money||
 | Cosset(v)| Care for and protect in an overindulgance way||
+| Gumption(n)| Shrewd or spirited initiative and resourcefulness||
 
 
 
@@ -468,6 +492,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Picayune(adj)| Of little value or significance, petty| Coin of small value|
 | Sinecure(n)| An office that involves minimal duties||
 | Philistine(adj)| Smug and ignorant towards artistic and cultural values||
+| Impervious(adj)| Not allowing the fluid to pass through and unable to be affected by| pervious: per(through)+via|
 
 
 ### To support:
@@ -490,6 +515,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Bucolic(adj)| Relating to country or countryside|
 | Pastoral(adj)| Bucolic|
 | Gerrymander(v)| Arrange political divisions in disregard of natural boundaries so as to give one party an advantage in elections|
+| Appropriate(v)| To give or take something by force; To allocate||
 
 
 ### Fight, Anger:
@@ -502,6 +528,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Tumult(n)| A state of chaos, noisy|
 | Truculent(adj)| Eager or quick to argue or fight|
 | Bilious(adj)| Irritable, always angry|
+| Internecine(adj)| of conflict within a group or organization|
 
 ### Encourage / Repeatedly asking:
 | Word          | Meaning       |
@@ -531,16 +558,19 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Schadenfreude(n)| A pleasure derived by someone from another person's misfortune||
 | Mellifluous(adj)| Pleasingly smooth and musical to hear||
 | Epiphany(n) | A sudden revelation or moment of insight||
+| Complaisant(adj)| Showing a cheerful willingness to do favors for others||
 
 ### Sad:
 | Word          | Meaning       |
 | ------------- |:------------- |
 | Bleak(adj)| Not warm/helpful, gloomy|
-| Cadaverous(adj)| Very pale, thin or bony because of suffering|
 | Melancholy(n)| A deep, long-lasting sadness|
+| Doleful(adj)| Filled with or evoking sadness| Dolor: pain, grief|
+| Dolorous(adj)| Showing sorrow|
+| Elegiac(adj)| Expressing sorrow, wistfully(regretfully) mournfully| Elegy(n): A poem of serious reflaction, typically a lament(complaint) for dead|
 | Maudlin(adj)| Overly emotional and sad|
+| Cadaverous(adj)| Very pale, thin or bony because of suffering|
 | Stoic(n)| A person who accepts what happens without complaining or showing emotion|
-| Doleful(adj)| Filled with or evoking sadness| |
 
 ### Funny:
 | Word          | Meaning       | Comments|
@@ -548,7 +578,6 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Facetious(adj) | Cleverly amusing in tone|
 | Rivald(adj)| Referring to sexual matters in an amusingly rude or irreverent way||
 | Lampoon(v)| Ridicule with satire||
-
 
 
 ### Hard working, Persistent:
@@ -562,7 +591,8 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Industrious(adj)| Characterized by hard work and persistence||
 | Discreet(adj)| Careful to protect one's action in order to avoid offence||
 | Stalwart(adj)| Dependable, injured to fatigure or hardships| stal (to place)+ worth|
-
+| Unassailable(adj)| Immune to attack; without flaws| Assail(v): Make a planned or violent attack on|
+| Assiduous(adverb)| Showing great care and perseverance||
 
 
 ### Duty, Authority :
@@ -597,6 +627,25 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Word          | Meaning       | Comment |
 | ------------- |:------------- |:-----------|
 | Raconteur(n)| A person skilled in telling anecdotes| Re + account |
+
+### Fantasy:
+| Word          | Meaning       | Comment |
+| ------------- |:------------- |:-----------|
+| Ethereal(adj)| Extremely delicate and light that seems not be of this world||
+
+### Miscellaneous:
+| Word          | Meaning       | Comment |
+| ------------- |:------------- |:-----------|
+| Self-effacing(adj)| Not claiming attention for oneself; retiring and modest| Efface: Erase from the surface; Make oneself appear insignificant or inconspicuous|
+| Doughty(adj)| Brave; bold; Courageous||
+| Palatable(adj)| Acceptable to the taste or mind||
+| Mendicant(n)| A pauper(very poor person) who lives by begging||
+| Callow(adj)| Young and inexperienced||
+| Tyro(n)| Someone new to a field or activity; Beginner or novice||
+| Elicit(v)| Evoke or draw out(a reaction, answer or fact) from someone||
+| Obtuse(adj)| Slow to learn; Lacking intellectual acuity(sharpenss of thought)||
+| Fecund(adj)| Highly fertile; Intellectually productive||
+| Proselytize(v)| Convert(or attempt to) convert from one religion, belief or opinion to another||
 
 
 ## Some Common suffixes, prefixes and roots with examples:
@@ -634,4 +683,3 @@ Things to do:
 * GRE Mock Test Links
 * About GRE
 * I really find this helpful: http://www.etymonline.com/index.php
-
