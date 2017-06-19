@@ -6,6 +6,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | ------------- |:------------- |
 | Rankle(v)| gnaw into, make angry|
 | Peevish(adj)| Easily irritated or annoyed|
+| Splenetic(adj)| Very irritable|
 | Exasperate(v) | To irritate intensely|
 | Irk(v)| irritate or vex|
 | Incense(v) | Make firious|
@@ -83,6 +84,8 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Impute(v)| Represent as being done or possessed by someone ||
 | Recrimination(n)| Mutual accusations||
 | Impugn(v)| Attack as false or wrong| in(towards) + pugnare(fight), see Pugnacious|
+| Sardonic(adj)| Disdainfully or ironically humorous; scornful and mocking| |
+| Pillory(v)| Ridicule or expose to public scorn||
 
 ### To hold back:
 | Word          | Meaning       |
@@ -100,11 +103,12 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Stymie(v)| Hinder or prevent the progress or accomplishment of|
 | Quail(v)| Draw back, as with fear or pain| (n) It's also a kind of small bird|
 | Apprehension(n)| Anxiety or fear that something bad or unpleasant will happen||
+| Ineluctable(adj)| Impossible to avoid or evade||
 | Ominous(adj)| Giving the worrying impression that something bad will happen||
 | Portent(n)| A sign or warning that something momentous or calamitous event is likely to happen||
 | Redoubtable(adj)| Inspiring fear or awe||
 | Immure(v)| To enlose, usually in walls|
-| Desideratum(n)| Something desired as a neccessity|
+| Officus(adj)| Intrusive in a meddling(interfering) or offensive way||
 
 ### Self Satisfied, Proudy:
 | Word          | Meaning       | Comment |
@@ -147,6 +151,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Vicissitude(n)| A change of circumstances or fortune, typically one that is unwelcome or unpleasant||
 | Expunge(v)| Remove completely| from ex (out) + pungere (to prick)|
 | Conflagration(n)| A very intense and uncontrolled fire||
+| Bastardization(n)| An act that debases or corrupts||
 
 
 ### Stubborn
@@ -178,9 +183,13 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Apotheosis(n)| Exaltation to divine status; the highest point of development| Apo (change) + theo(god)|
 | Veneration\ Reverence | Great respect ||
 | Reverent(adj)| Feeling or showing deep respect||
+| Estimable(adj)| Deserving of esteem or respect||
 | Accolade| Award, praise granted as special honor||
 | Creditable(adj)| (of a performance, effort, or action) deserving public acknowledgement and praise but not necessarily outstanding or successful||
 | Lionize | Assign great social importance to ||
+| Enamored(adj)| Strongly attracted to or in love with||
+| Eponym(n)| The name derived from a person||
+| Simulacrum(n)| A representation of a person; bad imitation(imitate: take or follow as a model)||
 
 
 ### Confusion
@@ -250,6 +259,8 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Unflappable(adj)| Not easily perturbed or excited or upset, marked by extreme calm and composure||
 | Sagacious(adj)| Having or showing clean mental judgement and acute insight||
 | Percipient(adj)| Highly perceptive, having good insight or understanding;||
+| Trenchant(adj)| Vigorous or incisive in expression or style||
+| Incisive(adj)| Intelligently analytical and clear thinking||
 
 ### Completely obvious:
 | Word          | Meaning       |
@@ -300,10 +311,12 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Illicit(adj)| Contrary to law||
 | Complicit(adj)| Involved with others in an activity that is unlawful or morally wrong||
 | Deceit(n)| Dishonest behavior||
+| Dissemble(v)| Conceal one's true motives usually through deceit| Resemble: re(intensive prefix)+sembler(to appear)|
 | Artifice(n)| Cunning tricks used to deceit others||
 | Subterfuge(n)| Something intended to misrepresent the true nature of something, deceit used in order to achieve one's goal||
 | Semblance(n)| The outward appearance or apparent form of something, especially when the reality is different| Assemble, Resemble,  from semblant "likeness, appearance" |
 | Veneer(n)| Covering consisting of a thin superficial layer that hides the underlying substance ||
+| Canard(n)| A deliberately misleading fabrication||
 | Finagle(v)| Achieve something by means of trickery||
 | Ersatz, Phony, Phoney(adj)| Not genuine; fraudulent||
 | Mulct(v)| Extract money from someone by fine or taxation||
@@ -318,11 +331,12 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | ------------- |:------------- |:---------|
 | Loquacious(adj)| People who love to talk so much that you wish that they could stop for a breathe and provide you a turn to speak| From loquor: to speak|
 | Glib (adj) | fluent but insincere and shallow|
-| Garrulous(adj) | Excessively talkative, especially on trivial matters |
 | Affable(adj)| Easy to talk to |
 | Genial(adj)| Agreeable, friendly|
 | Verbosity(n)| The fact or quality of using more words than needed; wordiness|
 | Prolixity(n)| Boring verbosity, Extended to great, unnecessary length|
+| Garrulous(adj) | Excessively talkative, especially on trivial matters |
+| Palaver(v)| speak( about unimportant matters) rapidly and incessantly||
 
 ### Uncommunicative:
 | Word          | Meaning       | Comments|
@@ -376,7 +390,9 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Resignation(n)| The acceptance of something unpleasant that can't be avoided||
 | Pariah(n)| An outcast||
 | Remonstrate(v)| To demonstrate, protest||
+| Abrogate(v)| Revoke or relinquish formally||
 | Bridle(v)| The headgear used to control a horse; To show one resentment's or anger||
+| Countermand(v)| A contrary command cancelling or reversing a previous command||
 
 ### Repeated too often, boring:
 | Word          | Meaning       | Comments|
@@ -401,12 +417,14 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | ------------- |:------------- |:----------|
 | Prodigal (adj)| Spending money or using resources freely and recklessly; wastefully extravagant||
 | Profligate(adj) | Recklessly extravagant or wasteful in the use of resources||
+| Dissipate(v)| Squander or spend money frivolously||
 | Lavish(v, adj)| Giving or using large amount of something, rich||
 | Extravagant(adj)| Exceeding what is reasonable or appropriate; excessive or elaborate||
 | Profuse(adj)| Very plentiful, abundant||
 | Myriad(n, adj)| Countless or extremely great in number||
 | Inundate(v) | To flood or overwhelm||
 | Raft(n) | A large number||
+| Surfeit(n)| An excessive amount of something||
 | Flush(adj)| A large Number ||
 | Incessant(adj)| Uninterrupted in time (something unpleasant)||
 | Perennial(adj)| Eternal||
@@ -421,7 +439,8 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Cupidity(n)| Greed for money||
 | Cosset(v)| Care for and protect in an overindulgance way||
 | Gumption(n)| Shrewd or spirited initiative and resourcefulness||
-
+| Dissolution(n)| A living full of debauchery; excessive indulgence in sex, alchohol or drugs||
+| Exorbitant(adj)| Greatly exceeding bounds of reason or moderation||
 
 
 ### Careful or Limited Amount:  
@@ -430,6 +449,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Dispatch(n,v)| The property of being prompt and efficient, dispose of rapidly and withoud delay and efficiently||
 | Thrifty(adj)| Spending wisely||
 | Frugal(adj)| Simple and plain and costing little, economical||
+| Miser(n)| A person who spend as little money as possible||
 | Destitute(n, adj)| Poor enough to need help, completely wanting ||
 | Defray(v) | Provide money to pay |dé- (expressing removal) + obsolete frai ‘cost, expenses’ |
 | Pittance(n)| A very small amount of money||
@@ -440,10 +460,12 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Smattering(n)| Slight(Little) understanding of a subject||
 | Blinkered(adj)| To have a limited outlook or understanding||
 | Insolvent(adj)| Bankrupt| Warning: Don't confuse with insolent meaning arrogant|
-| Miser(n)| A person who spend as little money as possible||
 | Paucity(n)| Presence of something in small amount||
+| Exiguity(n)| The quality of being meagre; lacking in quantity or quality||
+| Modicum(n)| A small quantity of particular thing(especially desirable or valuable)||
 | Dearth(n)| Scarcity ||
 | Decimation(n)| The killing or destruction of a large part of group| Divide by 10|
+| Evanescent(adj)| Soon passing out of sight, memory or existence; quickly fading or disappearing||
 
 ### Generous, polite:
 | Word          | Meaning       |
@@ -516,6 +538,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Pastoral(adj)| Bucolic|
 | Gerrymander(v)| Arrange political divisions in disregard of natural boundaries so as to give one party an advantage in elections|
 | Appropriate(v)| To give or take something by force; To allocate||
+| Chauvinism(n)| Fanatical patriotism; Belief that one's group/cause is superior to all others|
 
 
 ### Fight, Anger:
@@ -529,6 +552,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Truculent(adj)| Eager or quick to argue or fight|
 | Bilious(adj)| Irritable, always angry|
 | Internecine(adj)| of conflict within a group or organization|
+| Cataclysm(n)| A large scale and violent event in natural world| kata(down)+kluzein(to wash)|
 
 ### Encourage / Repeatedly asking:
 | Word          | Meaning       |
@@ -545,7 +569,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | ------------- |:------------- | :---------|
 | Beatific(adj)| Blissfully happy||
 | Sanguine(ad)| Cheerful, Optimistic||
-| Pollyannaish(adj)| Someone who thinks good things will always happy, finds good things in everything||
+| Ebullient(adj)| Cheerful and full of energy||
 | Winsome(adj)| Attractive in a fresh, innocent, child-like way ||
 | Debonair(adj)| Having a sophisticated charm, confident, stylish||
 | Euphoria(n)| Feeling of great elation||
@@ -555,10 +579,13 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Jocular(adj)| Characterized by jokes||
 | Guffaw(v)| Laugh roughly and noisily||
 | Glee(n)| Great delight, especially from one's own good fortune or another's misfortune||
+| Pollyannaish(adj)| Someone who thinks good things will always happy, finds good things in everything||
 | Schadenfreude(n)| A pleasure derived by someone from another person's misfortune||
 | Mellifluous(adj)| Pleasingly smooth and musical to hear||
 | Epiphany(n) | A sudden revelation or moment of insight||
 | Complaisant(adj)| Showing a cheerful willingness to do favors for others||
+| Halcyon(adj)| Denoting a period in past that was idyllically happy and peaceful||
+| Tranquil(adj)| Free from disturbance; calm||
 
 ### Sad:
 | Word          | Meaning       |
@@ -571,6 +598,8 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Maudlin(adj)| Overly emotional and sad|
 | Cadaverous(adj)| Very pale, thin or bony because of suffering|
 | Stoic(n)| A person who accepts what happens without complaining or showing emotion|
+| Lachrymose(adj)| Tearful||
+| Bereft(adj)| Unhappy in love; suffering from unrequitted (not returned properly)love||
 
 ### Funny:
 | Word          | Meaning       | Comments|
@@ -646,6 +675,13 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Obtuse(adj)| Slow to learn; Lacking intellectual acuity(sharpenss of thought)||
 | Fecund(adj)| Highly fertile; Intellectually productive||
 | Proselytize(v)| Convert(or attempt to) convert from one religion, belief or opinion to another||
+| Desideratum(n)| Something desired as a neccessity|
+| Verisimilitude(n)| The appearence of being true or real||
+| Panacea(n)| A solution or remedy for all difficulties or diseases|pan(all)+akos(remedy)=panakes=panakeia|
+| Flag(v)| Droop, sink, become tired or less enthusiastic||
+| Concomitant(adj)| Describe an event that happens at the same time as or in connection with another||
+| Veritable(adj)| Truthfully; without a doubt||
+
 
 
 ## Some Common suffixes, prefixes and roots with examples:
