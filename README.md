@@ -1,5 +1,5 @@
 # Gre Prep
-When I was mugging up words for preperation of GRE, I clustered words with similar meanings and It really helped. Here, are the clusters I made: 
+When I was mugging up words for preparation of GRE, I clustered words with similar meanings and It really helped. Here, are the clusters I made: 
 
 ### To make angry:
 | Word          | Meaning       |
@@ -9,7 +9,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Splenetic(adj)| Very irritable|
 | Exasperate(v) | To irritate intensely|
 | Irk(v)| irritate or vex|
-| Incense(v) | Make firious|
+| Incense(v) | Make furious|
 | Rile(v) | Cause annoyance in; disturb, especially by minor irritations|
 | Irascible(adj)| Quickly aroused to anger|
 | Fractious(adj)| Irritable and is likely to cause disruption |
@@ -26,7 +26,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Appease(v)			| To make someone pleased by speaking desired things
 | Placate		| 
 | Propitiate(v)| Win or regain the favor of, by doing something that pleases them|
-| [Provocate(v)]	| Make angry or stir up sexual desires
+| [Provocate(v)]	| Make angry or stir up sexual desires|
 | Conciliate(v)| To make peace with|
 | Anodyne(adj, n)| Not likely to cause offense or disagreement and somewhat dull, painkiller|
 
@@ -34,7 +34,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 ### To make better
 | Word          | Meaning       | Comments|
 | ------------- |:------------- | :---------- |
-| Ameliroate, Meliorate | ||
+| Ameliorate, Meliorate | ||
 | Mitigate| To make less severe ||
 | Extenuating (adj) | Making less guilty ||
 | Augment(v)| improve||
@@ -574,7 +574,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Debonair(adj)| Having a sophisticated charm, confident, stylish||
 | Euphoria(n)| Feeling of great elation||
 | Scintillating(adj) | Brilliant and lively||
-| Placid(adj)| Calm and peaceful| from plac- you'r pleased with the things as they are|
+| Placid(adj)| Calm and peaceful| from plac- you're pleased with the things as they are|
 | Content(adj, verb, noun)| in a state of peaceful happiness, satisfy someone||
 | Jocular(adj)| Characterized by jokes||
 | Guffaw(v)| Laugh roughly and noisily||
@@ -594,7 +594,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Melancholy(n)| A deep, long-lasting sadness|
 | Doleful(adj)| Filled with or evoking sadness| Dolor: pain, grief|
 | Dolorous(adj)| Showing sorrow|
-| Elegiac(adj)| Expressing sorrow, wistfully(regretfully) mournfully| Elegy(n): A poem of serious reflaction, typically a lament(complaint) for dead|
+| Elegiac(adj)| Expressing sorrow, wistfully(regretfully) mournfully| Elegy(n): A poem of serious reflection, typically a lament(complaint) for dead|
 | Maudlin(adj)| Overly emotional and sad|
 | Cadaverous(adj)| Very pale, thin or bony because of suffering|
 | Stoic(n)| A person who accepts what happens without complaining or showing emotion|
@@ -619,7 +619,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Punctilious(adj)| Marked by precise accordance with details||
 | Industrious(adj)| Characterized by hard work and persistence||
 | Discreet(adj)| Careful to protect one's action in order to avoid offence||
-| Stalwart(adj)| Dependable, injured to fatigure or hardships| stal (to place)+ worth|
+| Stalwart(adj)| Dependable, injured to fatigue or hardships| stal (to place)+ worth|
 | Unassailable(adj)| Immune to attack; without flaws| Assail(v): Make a planned or violent attack on|
 | Assiduous(adverb)| Showing great care and perseverance||
 
@@ -627,7 +627,7 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 ### Duty, Authority :
 | Word          | Meaning       | Comment |
 | ------------- |:------------- |:-----------|
-| Incumbent(adj, n)| Necessary as a duty or responsiblity, a person who holds a particular office or position||
+| Incumbent(adj, n)| Necessary as a duty or responsibility, a person who holds a particular office or position||
 | Behoove(v)| To be one's duty or obligation||
 | Enjoin(v)| Give instructions to or direct somebody to do something with authority||
 | Martinet(n)| A person who demands complete obedience, A strict disciplinarian||
@@ -672,11 +672,11 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | Callow(adj)| Young and inexperienced||
 | Tyro(n)| Someone new to a field or activity; Beginner or novice||
 | Elicit(v)| Evoke or draw out(a reaction, answer or fact) from someone||
-| Obtuse(adj)| Slow to learn; Lacking intellectual acuity(sharpenss of thought)||
+| Obtuse(adj)| Slow to learn; Lacking intellectual acuity(sharpness of thought)||
 | Fecund(adj)| Highly fertile; Intellectually productive||
 | Proselytize(v)| Convert(or attempt to) convert from one religion, belief or opinion to another||
-| Desideratum(n)| Something desired as a neccessity|
-| Verisimilitude(n)| The appearence of being true or real||
+| Desideratum(n)| Something desired as a necessity|
+| Verisimilitude(n)| The appearance of being true or real||
 | Panacea(n)| A solution or remedy for all difficulties or diseases|pan(all)+akos(remedy)=panakes=panakeia|
 | Flag(v)| Droop, sink, become tired or less enthusiastic||
 | Concomitant(adj)| Describe an event that happens at the same time as or in connection with another||
@@ -706,13 +706,13 @@ When I was mugging up words for preperation of GRE, I clustered words with simil
 | volo | to wish | malevolent, voluntary|
 | plac- | to please, appease| placate, implacable |
 | dono | to give | donor, condone|
-| Par | equal| as par, parity, disparity, comparision, disparage|
+| Par | equal| as par, parity, disparity, comparison, disparage|
 | Epi-, eph-, ep- | On, upon, above | Epiphany, Epicenter |
 | Loqur| To speak| Loquacious(adj): excessively talkative, Soliloquy(adj): who speak to oneself; Soliloquist(n): characters speaking thoughts aloud; Ventriloquist(adj) One who can throw his voice (to a puppet); Colloquial: To speak together, informal speech; Circumlocution: talking around, prevaricate;|
 
 
 ## Acknowledgement:
-Most of the words here are taken from Maghoosh Flash Cards android application and from book "Word power made easy" by Norman Lewis. Some word origins are taken from google and bing search engine's dictionaries.
+Most of the words here are taken from Maghoosh Flash Cards android application and from book "Word power made easy" by Norman Lewis. Some word origins are taken from Google and bing search engine's dictionaries.
 
 ## Contribution: 
 Things to do: 
