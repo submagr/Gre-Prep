@@ -711,6 +711,21 @@ When I was mugging up words for preparation of GRE, I clustered words with simil
 | Loqur| To speak| Loquacious(adj): excessively talkative, Soliloquy(adj): who speak to oneself; Soliloquist(n): characters speaking thoughts aloud; Ventriloquist(adj) One who can throw his voice (to a puppet); Colloquial: To speak together, informal speech; Circumlocution: talking around, prevaricate;|
 
 
+## Tips for GRE ANALYZE ISSUE:
+- About Issue topic: Each issue topic makes a claim that test takers can discuss from various perspective and apply to many situations or conditions. The issue statement is followed by specific instructions. Your task is to present a compelling case for your own position on the issue according to specific instructions.
+- Think about the issue from several point of views 
+- What precisely is the **central issue**?
+- What are the **instructions**?
+- Do I agree with **all or any** part of the claim? Why or why not?
+- Does the claim make certain **assumptions**? If so, are they reasonable?
+- Is the claim valid only under certain **conditions**? If so, what are they?
+- What **examples**-either real or hypothetical, could I use to illustrate those reasons and advance my point of views? Which examples are most **compelling**?
+- Once you have decided on a position to defend, consider to the perspective of others who might not agree with your positions. Ask yourself:
+    - What reasons might someone use to refute my position?
+    - How should I acknowledge or **defend against** those views?
+
+## Tips for GRE ANALYZE ARGUMENT:
+
 ## Acknowledgement:
 Most of the words here are taken from Maghoosh Flash Cards android application and from book "Word power made easy" by Norman Lewis. Some word origins are taken from Google and bing search engine's dictionaries.
 
